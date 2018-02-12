@@ -3,3 +3,8 @@
 ---
 
 @import "minima";
+@import "variables";
+
+.content {
+  font-size: $custom-font-size;
+}

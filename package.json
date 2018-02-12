@@ -1,0 +1,11 @@
+{
+  "name": "azizali.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:azizali/blog.git",
+  "author": "Aziz Ali <aziz@ilovecoding.org>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0"
+  }
+}
