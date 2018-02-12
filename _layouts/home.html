@@ -1,32 +1,74 @@
 ---
-layout: default
+layout: default_headless
 ---
 
-<div class="home">
-  {% if page.title %}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {% endif %}
+<div class="col-xs-12 mt-4">
+  <div class="jumbotron">
+    <div class="d-flex justify-content-center">
+      <div class="
+        text-center
+        col-sm-3
+        col-md-3
+        col-lg-2">
+        <img
+          style="width:100%; max-width:200px"
+          class="rounded-circle"
+          src="/assets/azizali.jpg" alt="Aziz Ali photo" />
+      </div>
+      <div>
+        <h1>Aziz Ali</h1>
+        <p class="lead">
+          Student, entrepreneur, coder, writer and minimalist
+        </p>
+        <a
+          class="btn btn-sm btn-link"
+          href="httsp://twitter.com/heyaziz">Twitter</a>
+        <a
+          class="btn btn-sm btn-link"
+          href="https://www.quora.com/profile/Aziz-Ali">Quora</a>
+        <a
+          class="btn btn-sm btn-link"
+          href="https://www.linkedin.com/in/azizali/">LinkedIn</a>
+      </div>
+    </div>
+
+    <div class="mt-4">
+      {% include navigation.html %}
+    </div>
+
+  </div>
+</div>
+
+<div class="col-md-8 col-md-offset-2">
+
 
   {{ content }}
 
   {% if site.posts.size > 0 %}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {% for post in site.posts %}
-      <li>
+    <h2>
+      {{ page.list_title | default: "Recent blog posts" }}
+    </h2>
+
+    {% for post in site.posts %}
+    <div class="card">
+      <div class="card-body">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+        <h4 class="card-title">
+          <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+        </h4>
+        <span class="card-text">
+          {{ post.date | date: date_format }}
+        </span>
         {% if site.show_excerpts %}
-          {{ post.excerpt }}
+        {{ post.excerpt }}
         {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
+      </div>
+    </div>
+    {% endfor %}
+
+    <a href="/blog">See all blog entries</a>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {% endif %}
