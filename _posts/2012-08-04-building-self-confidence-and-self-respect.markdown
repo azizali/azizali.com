@@ -1,0 +1,18 @@
+---
+author: aziz
+comments: true
+date: 2012-08-04 04:53:45+00:00
+layout: post
+link: http://azizali.com/building-self-confidence-and-self-respect/
+slug: building-self-confidence-and-self-respect
+title: Building self confidence and self respect
+wordpress_id: 472
+categories:
+- Pure Wisdom
+---
+
+I have found that, when I break my own promises; promises that I made to myself, I trust myself less and hence have less respect for my words.
+
+If we don't trust our own self, how can we be confident in convincing others of our worth and integrity.
+
+Make less, and smaller commitments, but fulfill it without exception, every time. Step your commitments up a notch after you are consistently having smaller successes

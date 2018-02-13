@@ -7,5 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.0.0"
+  },
+  "scripts": {
+    "start": "bundle exec jekyll serve"
   }
 }

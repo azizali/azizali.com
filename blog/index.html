@@ -1,0 +1,43 @@
+---
+layout: default
+title: Blog
+---
+
+{% if site.posts.size > 0 %}
+<h1 class="">{{ page.title }}</h2>
+
+{% for post in paginator.posts %}
+<div class="card mb-1">
+  <div class="card-body">
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <h4 class="card-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h4>
+    <span class="card-text">
+      {{ post.date | date: date_format }}
+    </span>
+    {% if site.show_excerpts %}
+    {{ post.excerpt }}
+    {% endif %}
+  </div>
+</div>
+{% endfor %}
+
+<ul class="pagination mt-3 justify-content-center">
+  {% if paginator.previous_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a></li>
+  {% endif %}
+
+  <li class="page-item">
+    <span class="page-link ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  </li>
+
+  {% if paginator.next_page %}
+  <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Next</a></li>
+  {% endif %}
+</ul>
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+{% endif %}

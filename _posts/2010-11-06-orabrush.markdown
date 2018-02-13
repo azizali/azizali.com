@@ -1,0 +1,15 @@
+---
+author: aziz
+comments: true
+date: 2010-11-06 03:53:49+00:00
+layout: post
+link: http://azizali.com/orabrush/
+slug: orabrush
+title: OraBrush
+wordpress_id: 115
+categories:
+- Marketing
+---
+
+How a person failed at selling his product on infomercials, but succeeded at selling it on Youtube.<!-- more -->
+
