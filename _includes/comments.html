@@ -2,32 +2,42 @@
   <h5>Comments</h5>
   {% for comment in site.data.comments[page.slug] %}
   {% assign email   = comment[1].email %}
-  {% assign avatar = "http://www.gravatar.com/avatar/" | append: email | append: ".jpg?s=40&d=retro" %}
+  {% assign avatar = "http://www.gravatar.com/avatar/" | append: email | append: ".jpg?s=50&d=retro" %}
   {% assign name    = comment[1].name %}
   {% assign url     = comment[1].url %}
   {% assign date    = comment[1].date %}
   {% assign message = comment[1].message %}
 
-  <div class="border-bottom p4">
+  <div class="border-bottom mt-4 p-2">
     {% if url %}
-    <a href="{{url}}">
+    <div class="float-left">
+      <a href="{{url}}">
+        <img 
+        class="rounded-circle mr-2"
+        src="{{avatar}}"
+        alt="{{name}}"
+        />
+      </a>
+    </div>
+    <div>
+      <a href="{{url}}"><strong>{{name}}</strong></a>
+      <br><small>{{date | date: '%B %d, %Y'}}</small>
+    </div>
+    {% else %}
+    <div class="float-left">
       <img 
-      class="rounded-circle mr-1"
+      class="rounded-circle mr-2"
       src="{{avatar}}"
       alt="{{name}}"
       />
-      <strong>{{name}}</strong>
-    </a>
-    {% else %}
-    <img 
-    class="rounded-circle mr-1"
-    src="{{avatar}}"
-    alt="{{name}}"
-    />
-    <strong>{{name}}</strong>
+    </div>
+    <div>
+      <strong>{{name}}</strong><br>
+      <small>{{date | date: '%B %d, %Y'}}</small>
+    </div>
     {% endif %}
     <p>
-      {{name}}
+      {{message}}
     </p>
   </div>
   {% endfor%}
