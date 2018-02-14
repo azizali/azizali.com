@@ -2,45 +2,45 @@
 layout: default_headless
 ---
 
-<div class="col-xs-12 mt-4">
-  <div class="jumbotron">
-    <div class="d-flex justify-content-center">
-      <div class="
-        text-center
-        col-sm-3
-        col-md-3
-        col-lg-2">
-        <img
-          style="width:100%; max-width:200px"
-          class="rounded-circle"
-          src="/assets/azizali.jpg" alt="Aziz Ali photo" />
-      </div>
-      <div>
-        <h1>Aziz Ali</h1>
-        <p class="lead">
-          Student, entrepreneur, coder, writer and minimalist
-        </p>
-        <a
-          class="btn btn-sm btn-link"
-          href="httsp://twitter.com/heyaziz">Twitter</a>
-        <a
-          class="btn btn-sm btn-link"
-          href="https://www.quora.com/profile/Aziz-Ali">Quora</a>
-        <a
-          class="btn btn-sm btn-link"
-          href="https://www.linkedin.com/in/azizali/">LinkedIn</a>
-      </div>
+<div class="mt-4 mb-4 pb-4 border-bottom d-flex flex-column flex-md-row justify-content-between">
+  <div class="row">
+    <div class="
+      col-sm-3
+      col-md-3
+      col-lg-2">
+      <img
+        style="width:100%; max-width:100px"
+        class="rounded-circle"
+        src="/assets/azizali.jpg" alt="Aziz Ali photo" />
     </div>
-
-    <div class="mt-4">
-      {% include navigation.html %}
+    <div class="col-sm-9
+      col-md-9
+      col-lg-10">
+      <h1>Aziz Ali</h1>
+      <p class="lead">
+        Student, entrepreneur, coder, writer and minimalist
+      </p>
+      <a
+        class="btn btn-sm btn-link"
+        href="https://twitter.com/heyaziz">Twitter</a>
+      <a
+        class="btn btn-sm btn-link"
+        href="https://www.quora.com/profile/Aziz-Ali">Quora</a>
+      <a
+        class="btn btn-sm btn-link"
+        href="https://www.linkedin.com/in/azizali/">LinkedIn</a>
+      <a
+        class="btn btn-sm btn-link"
+        href="https://github.com/azizali">Github</a>
     </div>
-
   </div>
+
+  <div class="mt-4">
+    {% include navigation.html %}
+  </div>
+
 </div>
 
-<div class="col-md-8 col-md-offset-2">
-
+<div>
   {{ content }}
-
 </div>

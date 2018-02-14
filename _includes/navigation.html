@@ -7,28 +7,28 @@
   <a class="btn btn-light {{active}}" href="{{url}}">Home</a>
 
   {% assign active = nil %}
-  {% assign url = '/blog' %}
+  {% assign url = '/blog/' %}
   {% if page.url == url %}
     {% assign active = 'active' %}
   {% endif %}
   <a class="btn btn-light {{active}}" href="{{url}}">Blog</a>
 
   {% assign active = nil %}
-  {% assign url = '/about' %}
+  {% assign url = '/about/' %}
   {% if page.url == url %}
     {% assign active = 'active' %}
   {% endif %}
   <a class="btn btn-light {{active}}" href="{{url}}">About</a>
   
   {% assign active = nil %}
-  {% assign url = '/principles' %}
+  {% assign url = '/principles/' %}
   {% if page.url == url %}
     {% assign active = 'active' %}
   {% endif %}
   <a class="btn btn-light {{active}}" href="{{url}}">Principles</a>
 
   {% assign active = nil %}
-  {% assign url = '/videos' %}
+  {% assign url = '/videos/' %}
   {% if page.url == url %}
     {% assign active = 'active' %}
   {% endif %}

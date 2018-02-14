@@ -1,8 +1,14 @@
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}
 
-<header class="mb-5 navbar navbar-expand-sm navbar-light bg-light justify-content-between" role="banner">
-  <div class="container">
+<header class="mb-5
+          navbar
+          navbar-expand-sm
+          navbar-light
+          bg-white justify-content-between"
+  role="banner">
+  
+  <div class="container border-bottom pb-2">
 
     <a class="navbar-brand" href="{{ "/" | relative_url }}">
       <img
