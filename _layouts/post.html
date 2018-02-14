@@ -19,6 +19,7 @@ layout: default
     {{ content }}
   </div>
   
+  {% include comments.html %}
   {% include comment_form.html %}
   
   {% if site.disqus.shortname %}
