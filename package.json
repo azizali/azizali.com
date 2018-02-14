@@ -9,6 +9,6 @@
     "bootstrap": "4.0.0"
   },
   "scripts": {
-    "start": "bundle exec jekyll serve"
+    "start": "bundle exec jekyll serve --incremental"
   }
 }
