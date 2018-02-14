@@ -1,0 +1,10 @@
+_id: b2b1f050-1128-11e8-a047-07d296044fde
+name: a
+email: 3614ce5bb62be0ecb91e1bd9c09f25b3
+message: '123'
+date: 1518572713
+timestamp: 1518572713
+commentDate: '2018-02-14T01:45:13.248Z'
+slug: '{options.slug}'
+approved: false
+article: '{options.slug}'
