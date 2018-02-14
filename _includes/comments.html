@@ -2,7 +2,7 @@
   <h5>Comments</h5>
   {% for comment in site.data.comments[page.slug] %}
   {% assign email   = comment[1].email %}
-  {% assign avatar = "http://www.gravatar.com/avatar/" | append: email | append: ".jpg?s=50&d=retro" %}
+  {% assign avatar = "http://www.gravatar.com/avatar/" | append: email | append: ".jpg?s=45&d=retro" %}
   {% assign name    = comment[1].name %}
   {% assign url     = comment[1].url %}
   {% assign date    = comment[1].date %}

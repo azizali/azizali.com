@@ -9,6 +9,7 @@
     "bootstrap": "4.0.0"
   },
   "scripts": {
-    "start": "bundle exec jekyll serve --incremental"
+    "start": "bundle exec jekyll serve --incremental",
+    "start:prod": "JEKYLL_ENV=production bundle exec jekyll serve --incremental"
   }
 }

@@ -38,6 +38,8 @@ sass:
     - _sass
     - node_modules
 
+google_analytics: UA-16845265-7
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
