@@ -1,0 +1,11 @@
+_id: 79435b80-1130-11e8-a047-07d296044fde
+name: Aziz
+email: 3614ce5bb62be0ecb91e1bd9c09f25b3
+url: 'https://ilovecoding.org'
+message: '123456'
+date: 1518576052
+timestamp: 1518576052
+commentDate: '2018-02-14T02:40:52.847Z'
+slug: '{options.slug}'
+approved: false
+article: '{options.slug}'
