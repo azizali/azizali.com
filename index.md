@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Home
+title: Aziz Ali - adventures & learning of an ambitious man
 ---
 
 ## Me in 10 seconds
@@ -15,8 +15,13 @@ title: Home
 
 - Currently I am running my own company full-time, <a href="https://ilovecoding.org">iLoveCoding.org</a>
 
-- On my quest I have learned a lot of life and business lessons that I share here
+- On my quest I have learned a lot of life and business lessons that I share [here]({{ site.baseurl }}{% link blog/index.html %})
 
 - I enjoy learning, programming, usable design, sales copywriting and physical fitness
 
-- I have conqured my fear of coding, and I am also an open source contributor
+- I have conqured my fear of coding, and I am also an [open source contributor](https://github.com/azizali)
+
+- See what I am doing [these days]({{ site.baseurl }}{% link pages/now.md %})
+
+## Want to know more?
+Read the [about page]({{ site.baseurl }}{% link pages/about.md %})

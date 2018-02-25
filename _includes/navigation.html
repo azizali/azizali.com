@@ -7,6 +7,13 @@
   <a class="btn btn-light {{active}}" href="{{url}}">Home</a>
 
   {% assign active = nil %}
+  {% assign url = '/now/' %}
+  {% if page.url == url %}
+    {% assign active = 'active' %}
+  {% endif %}
+  <a class="btn btn-light {{active}}" href="{{url}}">Now</a>
+
+  {% assign active = nil %}
   {% assign url = '/blog/' %}
   {% if page.url == url %}
     {% assign active = 'active' %}

@@ -21,6 +21,6 @@ Jekyll came to mind since one of my very respectable co-worker was hosting his p
 ## Todo
 - [X] Replace Staticman with disqus comments
 - [X] Meta data
-- [ ] add now page
-- [ ] Figure out how to add Title to the page
+- [X] Figure out how to add Title to the page
+- [X] add now page
 - [ ] Add Favicon

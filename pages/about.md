@@ -65,28 +65,31 @@ I am so blessed that I feel obligated to contribute my fair share to society.
   - Published my first open source library [React Super Treeview](https://github.com/azizali/react-super-treeview)
   - Quit my job to pursue business full time; Attempt #3
 
+*I have not listed all the jobs I have had here, for a full list check [my linkedIn profile](https://linkedin.com/in/azizali)*
+
 ## Philosophies I live by
 ---
 1. If you say you can or if you say you can't either way you are right.
 
 2. If you can't explain it simply, you don't understand it yourself.
-- Albert Einstein
+*-- Albert Einstein*
 
 3. Outcomes are not in your control, you only control the input.
 
 4. Knowledge without action is madness, and action without knowledge is void.
+*-- Imam Al-Ghazali*
 
 5. Focus on only one thing.
 
 6. Give people the benefit of the doubt.
 
 7. Own less! Own like a traveler, since we are here just as travelers in this world.
-- Prophet Mohammad PBUH
+*-- Prophet Mohammad PBUH*
 
 8. You will not achieve success unless you find patience with the thing you dislike the most.
-- Imam Ali Ibne Abi Talib
+*-- Imam Ali Ibne Abi Talib*
 
 9. Do not advice on something you yourself do not do.
-- Inspired by a story of Prophet Mohammad PBUH
+*-- Inspired by a story of Prophet Mohammad PBUH*
 
 10. Speak from your own experience only. Do not give advice or opinion that you have heard from others and not validated yourself.
