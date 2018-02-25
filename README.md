@@ -7,7 +7,7 @@ Jekyll came to mind since one of my very respectable co-worker was hosting his p
 
 ## Technology used
 - [Jekyll](https://jekyllrb.com/) to build the static pages
-- [Staticman](https://staticman.net/) for comments
+- [Disqus](https://disqus.com/) for comments
 - [exitwp](https://github.com/thomasf/exitwp) to transfer wordpress posts to jekyll
 - [wordpress-comments-jekyll-staticman](https://www.npmjs.com/package/wordpress-comments-jekyll-staticman) to transfer wordpress comments to staticman
 - Github Pages to host the website
@@ -16,9 +16,11 @@ Jekyll came to mind since one of my very respectable co-worker was hosting his p
 - `bundle install --path vendor/bundle`
 - `npm install yarn -g`
 - `yarn install`
-- `bundle exec jekyll serve`
+- `npm start`
 
 ## Todo
-- [ ] When user post comments, show meaningful success/failure messages
-- [ ] Ability to reply on comments
-- [ ] Email notification sent to commenters when they comment and when they get reply
+- [X] Replace Staticman with disqus comments
+- [X] Meta data
+- [ ] add now page
+- [ ] Figure out how to add Title to the page
+- [ ] Add Favicon
