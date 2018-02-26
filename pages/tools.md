@@ -4,14 +4,19 @@ title: Tools I use..
 permalink: /tools/
 ---
 
-On an everyday basis, I use Macbook Pro 2013, 16 GB RAM, 256 GB SSD, Intel Core i5 2.4 GHz, and Google Chrome as my browser.
+On an everyday basis, I use Macbook Pro 2013, 13" screen, 16 GB RAM, 256 GB SSD, Intel Core i5 2.4 GHz, and Google Chrome as my browser.
+
+### when I am **using the computer**
+---
+- ##### [Workflowy](https://workflowy.com/)
+  Workflowy is note-taking, list-making, thought-organizing app. I use it for journaling, note taking, and planning courses for iLoveCoding.org. I have been using workflowy for years, and it really helps organize my thoughts particularly when planning. I like its keyboard shortcuts, which makes my life much easier when using the app.
 
 ### when I am **programming**
 ---
 - ##### [Visual Studio Code](https://code.visualstudio.com/)
   VS Code is my goto text-editor these days, I have been a fan of Sublime Text in the past, but VS Code is better. I like it particularly since its free, has great shortcuts, integrated terminal, and great syntax highlighting for the technologies I use. I think Sublime Text is still noticably faster if you have large files.
 
-- ##### Javascript
+- ##### Javascript & Node.js
   Javascript is the most popular and versatile programming language. I use it for most (if not all) of my sofware engineering projects.
 
 - ##### React.js
@@ -23,16 +28,14 @@ On an everyday basis, I use Macbook Pro 2013, 16 GB RAM, 256 GB SSD, Intel Core 
 - ##### [Bootstrap](https://getbootstrap.com/)
   Helps me quickly scaffold web and mobile apps. When I want to customize the look of my apps, its easy to do it with it as well. AzizAli.com, Qitch.com, iLoveCoding.org and many of my other projects use Bootstrap.
 
-- ##### [Express.js](https://expressjs.com) / [Loopback](https://loopback.io/)
+- ##### [Express.js](https://expressjs.com) or [Loopback](https://loopback.io/)
   I use either of them for building Web APIs. iLoveCoding Web APIs are built with Loopback.
 
 ### when I am **designing websites and art**
 ---
 
 - ##### [Affinity Photo](https://affinity.serif.com/en-us/photo/)
-  For just $49.99 (one-time price) its a great alternative to Adobe Photoshop. I have tried Pixelator, Gimp and some others, and found Affinity Photo to be the best option for me.
-
-  Adobe Photoshop is $19/month, and Affinity Photo is $49.99. Thats a clear winner.
+  Being a Photoshop pro for many years, I found the transition to Affinity Photo relatively easy. For $49.99 (one-time price) its a great alternative to Adobe Photoshop ($19/month). I have tried Pixelator, Gimp and some others, and found Affinity Photo to be the best option for me.
 
 ### when I am **blogging**
 ---
