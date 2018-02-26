@@ -40,7 +40,7 @@ On an everyday basis, I use Macbook Pro 2013, 13" screen, 16 GB RAM, 256 GB SSD,
 ### when I am **blogging**
 ---
 
-- ##### [Jekyll](https://jekyllrb.com/)
+- ##### [Jekyll](https://jekyllrb.com/) and Git
   I am new to Jekyll, AzizAli.com is migrated over to Jekyll from wordpress. I am not 100% sold on it, lets see.
 
 ### when I am **creating video tutorials**
@@ -72,3 +72,6 @@ On an everyday basis, I use Macbook Pro 2013, 13" screen, 16 GB RAM, 256 GB SSD,
 
 - ##### [Netlify](https://netlify.com)
   For hosting front-end apps. iLoveCoding Front-End App is hosted on Netlify.
+
+- ##### [Github Pages](https://pages.github.com/)
+  AzizAli.com is hosted with Github Pages. Their build-times are excellent. As fast as my local computer. Impressive!
