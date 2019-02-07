@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-14 04:50:22+00:00
-layout: post
-link: https://azizali.com/if-they-dont-get-it-may-be-its-your-problem-not-theirs/
-slug: if-they-dont-get-it-may-be-its-your-problem-not-theirs
 title: If they don't get it, may be its your problem not theirs
-wordpress_id: 334
+date: 2012-06-14 04:50:22 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/if-they-dont-get-it-may-be-its-your-problem-not-theirs/
+wordpress_id: 334
 ---
 
 I am enrolled in Founders institute, which is an early stage incubator for tech startups. I am in a group on 21 aspiring entrepreneurs and its an awesome experience.

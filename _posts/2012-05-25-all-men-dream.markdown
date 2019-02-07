@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-25 05:19:45+00:00
-layout: post
-link: https://azizali.com/all-men-dream/
-slug: all-men-dream
 title: All Men Dream
-wordpress_id: 290
+date: 2012-05-25 05:19:45 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/all-men-dream/
+wordpress_id: 290
 ---
 
 “All men dream: but not equally. Those that dream by night in the dusty recesses of

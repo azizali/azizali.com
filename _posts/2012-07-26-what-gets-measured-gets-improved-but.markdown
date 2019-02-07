@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-26 04:28:18+00:00
-layout: post
-link: https://azizali.com/what-gets-measured-gets-improved-but/
-slug: what-gets-measured-gets-improved-but
 title: What gets measured gets improved, but...
-wordpress_id: 454
+date: 2012-07-26 04:28:18 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/what-gets-measured-gets-improved-but/
+wordpress_id: 454
 ---
 
 Measuring stuff, such as time to do a task, workout reps and weight, miles of running is all good because if we measure it, it provides a feedback loop to improve.

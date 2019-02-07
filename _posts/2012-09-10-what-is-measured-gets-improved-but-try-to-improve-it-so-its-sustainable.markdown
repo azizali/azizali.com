@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-09-10 03:03:24+00:00
-layout: post
-link: https://azizali.com/what-is-measured-gets-improved-but-try-to-improve-it-so-its-sustainable/
-slug: what-is-measured-gets-improved-but-try-to-improve-it-so-its-sustainable
 title: what is measured gets improved, but try to improve it so its sustainable
-wordpress_id: 541
+date: 2012-09-10 03:03:24 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/what-is-measured-gets-improved-but-try-to-improve-it-so-its-sustainable/
+wordpress_id: 541
 ---
 
 If I am a email marketer, I will track my click through rate, and open rates.

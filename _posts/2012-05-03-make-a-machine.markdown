@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-03 04:32:16+00:00
-layout: post
-link: https://azizali.com/make-a-machine/
-slug: make-a-machine
 title: Make a machine
-wordpress_id: 240
+date: 2012-05-03 04:32:16 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/make-a-machine/
+wordpress_id: 240
 ---
 
 When you make a good machine, it works perfectly and gives us standard output if the input is consistent as well.

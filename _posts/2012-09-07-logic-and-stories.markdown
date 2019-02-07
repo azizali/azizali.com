@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-09-07 04:56:02+00:00
-layout: post
-link: https://azizali.com/logic-and-stories/
-slug: logic-and-stories
 title: Logic and stories
-wordpress_id: 535
+date: 2012-09-07 04:56:02 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/logic-and-stories/
+wordpress_id: 535
 ---
 
 Although we humans want the logical how-to's and step by step guides, we understand best by stories, which has emotional trigers

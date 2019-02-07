@@ -1,17 +1,14 @@
 ---
-author: aziz
-comments: true
-date: 2013-06-16 04:29:00+00:00
-layout: post
-link: https://azizali.com/improve-your-thinking/
-slug: improve-your-thinking
 title: Improve your thinking
-wordpress_id: 2936
+date: 2013-06-16 04:29:00 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/improve-your-thinking/
+wordpress_id: 2936
 ---
-
-
 
 [caption id="attachment_2937" align="aligncenter" width="400"]![Brain](https://azizali.com/wp-content/uploads/2013/06/brain-11.jpg) Brain[/caption]
 

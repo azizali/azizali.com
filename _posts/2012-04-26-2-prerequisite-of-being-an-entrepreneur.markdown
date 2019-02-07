@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-26 04:44:17+00:00
-layout: post
-link: https://azizali.com/2-prerequisite-of-being-an-entrepreneur/
-slug: 2-prerequisite-of-being-an-entrepreneur
 title: 2 prerequisite of being an entrepreneur
-wordpress_id: 219
+date: 2012-04-26 04:44:17 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/2-prerequisite-of-being-an-entrepreneur/
+wordpress_id: 219
 ---
 
 There are two fundamental things every entrepreneur must to consistently

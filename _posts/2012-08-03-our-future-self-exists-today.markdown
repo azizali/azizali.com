@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-03 02:38:19+00:00
-layout: post
-link: https://azizali.com/our-future-self-exists-today/
-slug: our-future-self-exists-today
 title: Our future self, exists today
-wordpress_id: 468
+date: 2012-08-03 02:38:19 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/our-future-self-exists-today/
+wordpress_id: 468
 ---
 
 We some how believe, that we will be better people in the future. That is why we delay that workout, and eat that chocolate today saying we will not eat tomorrow. That is why we delay the todays work, thinking our future self will be organized and motivated tomorrow.

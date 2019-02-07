@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 My parents call me self-assertive, my friends call me outspoken. My super power is the ability to teach and explain things simply, hence I apply my super powers at [iLoveCoding.org](https://ilovecoding.org)

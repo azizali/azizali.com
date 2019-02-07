@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-07 03:22:52+00:00
-layout: post
-link: https://azizali.com/where-are-you-in-the-food-chain/
-slug: where-are-you-in-the-food-chain
 title: Where are you in the food chain
-wordpress_id: 251
+date: 2012-05-07 03:22:52 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/where-are-you-in-the-food-chain/
+wordpress_id: 251
 ---
 
 Are you an employee or a manger or the owner?

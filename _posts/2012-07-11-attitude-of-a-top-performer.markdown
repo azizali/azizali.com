@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-11 04:56:19+00:00
-layout: post
-link: https://azizali.com/attitude-of-a-top-performer/
-slug: attitude-of-a-top-performer
 title: Attitude of a Top performer
-wordpress_id: 409
+date: 2012-07-11 04:56:19 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/attitude-of-a-top-performer/
+wordpress_id: 409
 ---
 
 I was watching a MMA fight and right after the fight finishes, a guy with the mic comes up to winner asks a few questions and then moves on to the looser and asks him a bunch of questions.

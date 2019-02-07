@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-22 05:00:00+00:00
-layout: post
-link: https://azizali.com/unfortunately-hype-works/
-slug: unfortunately-hype-works
 title: Unfortunately Hype Works
-wordpress_id: 110
+date: 2012-03-22 05:00:00 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/unfortunately-hype-works/
+wordpress_id: 110
 ---
 
 You will find literally 9,718,362 websites (I just made that number up) on the internet that   promise on how you can lose weight or make a billion dollars in 61 seconds. These websites either have one-off products, or hypefully sell their clients into continuity programs.

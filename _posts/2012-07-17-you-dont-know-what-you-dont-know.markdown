@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-17 03:42:33+00:00
-layout: post
-link: https://azizali.com/you-dont-know-what-you-dont-know/
-slug: you-dont-know-what-you-dont-know
 title: You don't know what you don't know
-wordpress_id: 427
+date: 2012-07-17 03:42:33 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/you-dont-know-what-you-dont-know/
+wordpress_id: 427
 ---
 
 Simple concept "You don't know what you don't know!" But we fall trap for it everytime when our need to be right arises.

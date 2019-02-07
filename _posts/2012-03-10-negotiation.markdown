@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-10 05:30:53+00:00
-layout: post
-link: https://azizali.com/negotiation/
-slug: negotiation
 title: Negotiation
-wordpress_id: 81
+date: 2012-03-10 05:30:53 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/negotiation/
+wordpress_id: 81
 ---
 
 Negotiations can be intimidating. Its difficult to estimate what to expect and what will be thrown at you as part of the negotiation process. In the mist of feverish activity, its easy to get unfocused and distracted.

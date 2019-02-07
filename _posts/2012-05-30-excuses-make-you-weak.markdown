@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-30 04:40:48+00:00
-layout: post
-link: https://azizali.com/excuses-make-you-weak/
-slug: excuses-make-you-weak
 title: Excuses make you weak
-wordpress_id: 301
+date: 2012-05-30 04:40:48 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/excuses-make-you-weak/
+wordpress_id: 301
 ---
 
 Excuses reduces the burden on your shoulder convincing yourself to take a chill because it is not you. If you are late to a meeting you say

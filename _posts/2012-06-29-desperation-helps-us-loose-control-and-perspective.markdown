@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-29 04:39:02+00:00
-layout: post
-link: https://azizali.com/desperation-helps-us-loose-control-and-perspective/
-slug: desperation-helps-us-loose-control-and-perspective
 title: Desperation helps us loose control and perspective
-wordpress_id: 380
+date: 2012-06-29 04:39:02 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/desperation-helps-us-loose-control-and-perspective/
+wordpress_id: 380
 ---
 
 Sometimes we want that phone call from our partner;

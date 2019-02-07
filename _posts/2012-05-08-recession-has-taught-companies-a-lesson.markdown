@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-08 03:36:07+00:00
-layout: post
-link: https://azizali.com/recession-has-taught-companies-a-lesson/
-slug: recession-has-taught-companies-a-lesson
 title: Recession has taught companies a lesson
-wordpress_id: 253
+date: 2012-05-08 03:36:07 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/recession-has-taught-companies-a-lesson/
+wordpress_id: 253
 ---
 
 There was a time when large corporations would hire a senior management person who could smooth talk. Talk big and make people under him/her do all the actual work.

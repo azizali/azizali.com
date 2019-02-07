@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-06 18:52:51+00:00
-layout: post
-link: https://azizali.com/conspicuous-consumption/
-slug: conspicuous-consumption
 title: Conspicuous Consumption
-wordpress_id: 66
+date: 2012-03-06 18:52:51 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/conspicuous-consumption/
+wordpress_id: 66
 ---
 
 Man created cars for faster travel, then some men created luxury cars to help consumers portray their prestige.

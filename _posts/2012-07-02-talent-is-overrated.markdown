@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-02 05:01:21+00:00
-layout: post
-link: https://azizali.com/talent-is-overrated/
-slug: talent-is-overrated
 title: Talent Is Overrated
-wordpress_id: 387
+date: 2012-07-02 05:01:21 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/talent-is-overrated/
+wordpress_id: 387
 ---
 
 I am listening to an audiobook titled "Talent Is Overrated: What Really Separates World-Class Performers from Everyone Else" and I LOVE the book

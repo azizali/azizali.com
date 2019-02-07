@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-17 03:04:15+00:00
-layout: post
-link: https://azizali.com/you-are-an-artist/
-slug: you-are-an-artist
 title: You are an artist
-wordpress_id: 193
+date: 2012-04-17 03:04:15 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/you-are-an-artist/
+wordpress_id: 193
 ---
 
 An artist is not the one who paints. An artist is the one who does the emotional labor of going against the social norms to figure out something unique and communicates it in a form.

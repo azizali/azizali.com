@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-10-06 15:07:17+00:00
-layout: post
-link: https://azizali.com/emotional-energy-cost/
-slug: emotional-energy-cost
 title: Emotional energy cost
-wordpress_id: 574
+date: 2012-10-06 15:07:17 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/emotional-energy-cost/
+wordpress_id: 574
 ---
 
 My brother and I have the same phone and the same phone charger. I ordered an extra charger for my office and the day it arrived in the mail, my brother broke his charger. Since this charger of mine was an extra one for me, he conveniently took it for his use.

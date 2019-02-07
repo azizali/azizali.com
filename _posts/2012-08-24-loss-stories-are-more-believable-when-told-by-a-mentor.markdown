@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-24 04:56:46+00:00
-layout: post
-link: https://azizali.com/loss-stories-are-more-believable-when-told-by-a-mentor/
-slug: loss-stories-are-more-believable-when-told-by-a-mentor
 title: Loss stories are more believable when told by a mentor
-wordpress_id: 515
+date: 2012-08-24 04:56:46 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/loss-stories-are-more-believable-when-told-by-a-mentor/
+wordpress_id: 515
 ---
 
 I met three of my mentors on Tuesday, and I realized that the most profound message/learning came through when the mentors told a story of how they lost, and why they lost. I wonder why that happens?

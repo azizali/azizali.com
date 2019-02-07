@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-03 03:22:30+00:00
-layout: post
-link: https://azizali.com/compliance-with-the-status-quo/
-slug: compliance-with-the-status-quo
 title: Compliance with the Status Quo
-wordpress_id: 151
+date: 2012-04-03 03:22:30 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/compliance-with-the-status-quo/
+wordpress_id: 151
 ---
 
 A few weeks ago I was at DrupalCon, Denver, when I was walking towards the main lecture hall. I passed by two coffee stalls. The first one was really busy, there was a line of people waiting to get coffee. The other one was empty. No customers at all.

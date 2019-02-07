@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-20 04:21:55+00:00
-layout: post
-link: https://azizali.com/its-all-about-the-lens/
-slug: its-all-about-the-lens
 title: Its all about the lens
-wordpress_id: 100
+date: 2012-03-20 04:21:55 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/its-all-about-the-lens/
+wordpress_id: 100
 ---
 
 A coworker of mine went through a life changing experience in the past week. His newly born (I week old) son, Ben, was diagnosed with a rare disease, which had something to do with his arteries, such that Ben's heart had to work harder then a normal person's heart. A week old Ben was hospitalized and had some kind of operation. The chances of his survival were slim. My colleague took off from work since he was in a highly emotional state; uncertain of the fate of his son.

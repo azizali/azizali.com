@@ -1,18 +1,15 @@
 ---
-author: aziz
-comments: true
-date: 2012-12-21 21:57:09+00:00
-layout: post
-link: https://azizali.com/hiring-aha-moment/
-slug: hiring-aha-moment
 title: Hiring Aha moment
-wordpress_id: 604
+date: 2012-12-21 21:57:09 Z
 categories:
 - Sharing My Real Experience
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/hiring-aha-moment/
+wordpress_id: 604
 ---
 
-
-	
   * A players hire A player
 
 	

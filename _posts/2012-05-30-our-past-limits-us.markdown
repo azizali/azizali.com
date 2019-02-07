@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-30 23:47:48+00:00
-layout: post
-link: https://azizali.com/our-past-limits-us/
-slug: our-past-limits-us
 title: Our past limits us
-wordpress_id: 303
+date: 2012-05-30 23:47:48 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/our-past-limits-us/
+wordpress_id: 303
 ---
 
 Did you know that our bodies recreate itself every few years. That means any given cell in your body did not exist a few years ago. Why is it that we have a natural system of renewal while our mind remains married to our past.

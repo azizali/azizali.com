@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-15 03:32:58+00:00
-layout: post
-link: https://azizali.com/success-pardons-sins/
-slug: success-pardons-sins
 title: Success pardons sins
-wordpress_id: 337
+date: 2012-06-15 03:32:58 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/success-pardons-sins/
+wordpress_id: 337
 ---
 
 There are exceptions to all rules, since success pardons all sins.

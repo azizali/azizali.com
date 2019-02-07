@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2013-04-14 17:02:35+00:00
-layout: post
-link: https://azizali.com/ranted-response-appgratis-is-not-a-black-hat-marketing-company/
-slug: ranted-response-appgratis-is-not-a-black-hat-marketing-company
-title: '[Ranted Response] AppGratis is NOT a Black Hat Marketing Company'
-wordpress_id: 611
+title: "[Ranted Response] AppGratis is NOT a Black Hat Marketing Company"
+date: 2013-04-14 17:02:35 Z
 categories:
 - Random
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/ranted-response-appgratis-is-not-a-black-hat-marketing-company/
+wordpress_id: 611
 ---
 
 This post is a response to Techy Jeremy's posts:

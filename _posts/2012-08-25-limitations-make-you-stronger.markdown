@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-25 05:31:36+00:00
-layout: post
-link: https://azizali.com/limitations-make-you-stronger/
-slug: limitations-make-you-stronger
 title: limitations make you stronger
-wordpress_id: 518
+date: 2012-08-25 05:31:36 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/limitations-make-you-stronger/
+wordpress_id: 518
 ---
 
 If you are in a pitch dark room, you have no vision; so you rely more heavily on your other senses to navigate around.

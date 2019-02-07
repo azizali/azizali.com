@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-10-04 03:20:18+00:00
-layout: post
-link: https://azizali.com/urdu-idiom/
-slug: urdu-idiom
 title: Urdu idiom
-wordpress_id: 568
+date: 2012-10-04 03:20:18 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/urdu-idiom/
+wordpress_id: 568
 ---
 
 One fish can spoil the whole pound.

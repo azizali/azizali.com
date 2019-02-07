@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-08 22:58:45+00:00
-layout: post
-link: https://azizali.com/highest-leverage-a-human-can-have/
-slug: highest-leverage-a-human-can-have
 title: Highest Leverage a Human can have
-wordpress_id: 73
+date: 2012-03-08 22:58:45 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/highest-leverage-a-human-can-have/
+wordpress_id: 73
 ---
 
 When I first started my affiliate marketing business, It was me alone. I quickly started making $100 a day but for some reason it would not scale. After much frustration, and after overcoming my fear of loosing control and money I hired a few people. Within the same month my income grew exponentially.

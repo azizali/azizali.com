@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-15 03:59:10+00:00
-layout: post
-link: https://azizali.com/ask-a-ton-of-questions/
-slug: ask-a-ton-of-questions
 title: Ask a ton of questions
-wordpress_id: 186
+date: 2012-04-15 03:59:10 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/ask-a-ton-of-questions/
+wordpress_id: 186
 ---
 
 Questions are the best tool to keep us focused. Questions give us clarity. Questions stem from curiosity and lead to discovery or reassurance.

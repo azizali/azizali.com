@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-10-02 03:32:14+00:00
-layout: post
-link: https://azizali.com/actions-vs-words/
-slug: actions-vs-words
 title: Actions vs. words
-wordpress_id: 563
+date: 2012-10-02 03:32:14 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/actions-vs-words/
+wordpress_id: 563
 ---
 
 A persons actions should be better than his words. His words should not be better than his actions.

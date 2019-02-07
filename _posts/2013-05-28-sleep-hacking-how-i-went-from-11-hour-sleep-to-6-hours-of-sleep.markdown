@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2013-05-28 14:43:10+00:00
-layout: post
-link: https://azizali.com/sleep-hacking-how-i-went-from-11-hour-sleep-to-6-hours-of-sleep/
-slug: sleep-hacking-how-i-went-from-11-hour-sleep-to-6-hours-of-sleep
 title: 'Sleep Hacking: How I went from 11 hour sleep to 6 hours of sleep'
-wordpress_id: 2879
+date: 2013-05-28 14:43:10 Z
 categories:
 - Sharing My Real Experience
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/sleep-hacking-how-i-went-from-11-hour-sleep-to-6-hours-of-sleep/
+wordpress_id: 2879
 ---
 
 In this post I will explain how I went from 11 hours of sleep to 6 hours of sleep per night. These strategies are SIMPLE to implement, so please don't underrate its effectiveness.

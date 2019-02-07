@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-28 08:10:58+00:00
-layout: post
-link: https://azizali.com/its-better-to-say-no-then-to-break-commitments/
-slug: its-better-to-say-no-then-to-break-commitments
 title: its better to say no then to break commitments
-wordpress_id: 459
+date: 2012-07-28 08:10:58 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/its-better-to-say-no-then-to-break-commitments/
+wordpress_id: 459
 ---
 
 Seth Godin does not tweet. It's because its not his thing. He could easily do it, hire someone to manage it but why do it just for the sake of doing it?

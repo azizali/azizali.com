@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-18 05:25:02+00:00
-layout: post
-link: https://azizali.com/personality-types-of-entrepreneur-which-one-are-you/
-slug: personality-types-of-entrepreneur-which-one-are-you
 title: Personality types of entrepreneur, which one are you?
-wordpress_id: 429
+date: 2012-07-18 05:25:02 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/personality-types-of-entrepreneur-which-one-are-you/
+wordpress_id: 429
 ---
 
 Entrepreneurs come in a few flavors. 

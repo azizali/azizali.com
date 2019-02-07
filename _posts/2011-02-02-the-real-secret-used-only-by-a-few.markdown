@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2011-02-02 02:02:43+00:00
-layout: post
-link: https://azizali.com/the-real-secret-used-only-by-a-few/
-slug: the-real-secret-used-only-by-a-few
 title: The REAL secret used only by a few
-wordpress_id: 625
+date: 2011-02-02 02:02:43 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/the-real-secret-used-only-by-a-few/
+wordpress_id: 625
 ---
 
 A few months ago I was watching a movie researching on what is truly the secret to success. With the movie "The Secret" out in the world, and our society being trained by media and deceiving hype,

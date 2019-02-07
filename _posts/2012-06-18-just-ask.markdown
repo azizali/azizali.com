@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-18 03:56:17+00:00
-layout: post
-link: https://azizali.com/just-ask/
-slug: just-ask
 title: Just ask
-wordpress_id: 343
+date: 2012-06-18 03:56:17 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/just-ask/
+wordpress_id: 343
 ---
 
 If you want that discount, refund, addon, freebie, time, break, just ask. It's unbelievable how many times we simply short change ourselves based on assumptions and fear of hearing a no.

@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-06 03:26:56+00:00
-layout: post
-link: https://azizali.com/never-under-estimate/
-slug: never-under-estimate
 title: never under estimate
-wordpress_id: 249
+date: 2012-05-06 03:26:56 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/never-under-estimate/
+wordpress_id: 249
 ---
 
 Never under estimate the power of prayer.

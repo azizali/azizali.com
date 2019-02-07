@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-02 03:00:03+00:00
-layout: post
-link: https://azizali.com/conflicts-in-a-good-world/
-slug: conflicts-in-a-good-world
 title: Conflicts in a good world
-wordpress_id: 52
+date: 2012-03-02 03:00:03 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/conflicts-in-a-good-world/
+wordpress_id: 52
 ---
 
 I am often criticized on my communication style by my peers. I come of as pushy, and I have zero tolerance for people with a loser attitude.(Loser attitude is to not have the willingness to figure things out, loser attitude is not taking responsibility and blaming other). I come to conclusions quickly without having the patience to listen to the other person's point of view.

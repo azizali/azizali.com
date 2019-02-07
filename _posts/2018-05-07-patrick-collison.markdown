@@ -1,13 +1,12 @@
 ---
-author: aziz
-comments: true
-date: 2018-05-07 12:24:44+00:00
-layout: post
-link: https://azizali.com/patrick-collison/
-slug: patrick-collison
 title: What I learned from a billionaire I met - co-founder and CEO of Stripe
+date: 2018-05-07 12:24:44 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/patrick-collison/
 ---
 
 I attended [MicroConf 2018](http://www.microconf.com/) which is the largest conference for self funded online entrepreneurs. The room was filled with people who were in business for a long time and unlike most conferences, the ratio of successful to yet-to-be-successful attendees was pretty healthy.

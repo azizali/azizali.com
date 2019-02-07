@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-19 04:51:59+00:00
-layout: post
-link: https://azizali.com/paying-your-dues/
-slug: paying-your-dues
 title: Paying your dues
-wordpress_id: 505
+date: 2012-08-19 04:51:59 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/paying-your-dues/
+wordpress_id: 505
 ---
 
 We all look for the trick, the shortcut, the leverage, the secret. But most of the time, its none of those, its plain old paying your dues

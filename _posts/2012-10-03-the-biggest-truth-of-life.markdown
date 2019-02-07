@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-10-03 03:46:43+00:00
-layout: post
-link: https://azizali.com/the-biggest-truth-of-life/
-slug: the-biggest-truth-of-life
 title: The biggest truth of life
-wordpress_id: 565
+date: 2012-10-03 03:46:43 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/the-biggest-truth-of-life/
+wordpress_id: 565
 ---
 
 The biggest truth of life is death. Seriously, you have a finite amount of years and after that you are history. Give it some more time and they won't even know you existed.

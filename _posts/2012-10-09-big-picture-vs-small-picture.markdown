@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-10-09 04:08:10+00:00
-layout: post
-link: https://azizali.com/big-picture-vs-small-picture/
-slug: big-picture-vs-small-picture
 title: Big Picture vs. Small Picture
-wordpress_id: 579
+date: 2012-10-09 04:08:10 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/big-picture-vs-small-picture/
+wordpress_id: 579
 ---
 
 It's important to have a great vision: Computer on every desk -Steve Jobs, or building the tallest building or, sending a man on moon etc.

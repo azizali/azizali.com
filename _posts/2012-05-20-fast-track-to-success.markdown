@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-20 04:31:02+00:00
-layout: post
-link: https://azizali.com/fast-track-to-success/
-slug: fast-track-to-success
 title: Fast track to success
-wordpress_id: 273
+date: 2012-05-20 04:31:02 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/fast-track-to-success/
+wordpress_id: 273
 ---
 
 If you are reading this blog, you have some sort of vision in your head on where you want to go. Now if that is the case, we all want to get to out destination faster. Here is how you can.do that.

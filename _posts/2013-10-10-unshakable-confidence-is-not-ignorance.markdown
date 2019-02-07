@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2013-10-10 17:30:44+00:00
-layout: post
-link: https://azizali.com/unshakable-confidence-is-not-ignorance/
-slug: unshakable-confidence-is-not-ignorance
 title: Unshakable Confidence is not ignorance.
-wordpress_id: 2932
+date: 2013-10-10 17:30:44 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/unshakable-confidence-is-not-ignorance/
+wordpress_id: 2932
 ---
 
 The person who is most certain will always be able influence the other.

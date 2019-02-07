@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-27 04:01:12+00:00
-layout: post
-link: https://azizali.com/process-over-outcome/
-slug: process-over-outcome
 title: Process over Outcome
-wordpress_id: 131
+date: 2012-03-27 04:01:12 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/process-over-outcome/
+wordpress_id: 131
 ---
 
 I have noticed countless times that the top 5% people perform their skill almost effortlessly. I enjoy watching singing competitions - It happens many times that the best song gets recognition while at the same time the judges recognize that the song was performed as if it was sung effortlessly, with peace, with harmony and congruence at all levels.

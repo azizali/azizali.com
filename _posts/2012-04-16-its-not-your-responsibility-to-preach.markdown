@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-16 03:46:11+00:00
-layout: post
-link: https://azizali.com/its-not-your-responsibility-to-preach/
-slug: its-not-your-responsibility-to-preach
 title: It's not your responsibility to preach
-wordpress_id: 189
+date: 2012-04-16 03:46:11 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/its-not-your-responsibility-to-preach/
+wordpress_id: 189
 ---
 
 Not the entire world is your student, nor is the entire world your children. Some people just have the generic feeling that they have the obligation to correct people.

@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-12 03:17:23+00:00
-layout: post
-link: https://azizali.com/everything-is-easy-if-its-a-habit/
-slug: everything-is-easy-if-its-a-habit
 title: Everything is easy if its a habit
-wordpress_id: 177
+date: 2012-04-12 03:17:23 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/everything-is-easy-if-its-a-habit/
+wordpress_id: 177
 ---
 
 As human, its easy to process a bajilion things at a time, but in reality this practice robs us from focus and clarity.

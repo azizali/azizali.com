@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-27 06:14:43+00:00
-layout: post
-link: https://azizali.com/too-many-rules/
-slug: too-many-rules
 title: Too many rules
-wordpress_id: 376
+date: 2012-06-27 06:14:43 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/too-many-rules/
+wordpress_id: 376
 ---
 
 Too many rules, lower morale. Imagine the first day of your job and instead of being welcomed, you are put in training for everything you should not do and how the consequences are bad for it.

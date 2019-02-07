@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Tools I use..
-permalink: /tools/
+permalink: "/tools/"
+layout: page
 ---
 
 On an everyday basis, I use Macbook Pro 2013, 13" screen, 16 GB RAM, 256 GB SSD, Intel Core i5 2.4 GHz, and Google Chrome as my browser.

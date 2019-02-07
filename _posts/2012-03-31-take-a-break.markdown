@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-31 04:52:28+00:00
-layout: post
-link: https://azizali.com/take-a-break/
-slug: take-a-break
 title: Take a break
-wordpress_id: 143
+date: 2012-03-31 04:52:28 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/take-a-break/
+wordpress_id: 143
 ---
 
 Another study done on the performance of the top 1% people, they took a bunch of tennis players and examined them.

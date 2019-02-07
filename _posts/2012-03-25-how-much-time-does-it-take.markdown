@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-25 04:48:38+00:00
-layout: post
-link: https://azizali.com/how-much-time-does-it-take/
-slug: how-much-time-does-it-take
 title: How much time does it take?
-wordpress_id: 120
+date: 2012-03-25 04:48:38 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/how-much-time-does-it-take/
+wordpress_id: 120
 ---
 
 We all get caught up in the trap of:

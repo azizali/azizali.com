@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-02-20 02:12:06+00:00
-layout: post
-link: https://azizali.com/hello-world/
-slug: hello-world
 title: Hello world! First blog post on AzizAli.com
-wordpress_id: 1
+date: 2012-02-20 02:12:06 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/hello-world/
+wordpress_id: 1
 ---
 
 Inspired by [Seth Godin's](http://sethgodin.typepad.com/) persistence on writing a daily blog, combined with the idea that writing my ideas down daily could be of unimaginable value to my readers and I, I have decided to start this journey to writing a daily blog.

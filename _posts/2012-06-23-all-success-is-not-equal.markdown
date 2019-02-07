@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-23 17:58:11+00:00
-layout: post
-link: https://azizali.com/all-success-is-not-equal/
-slug: all-success-is-not-equal
 title: All success is not equal
-wordpress_id: 357
+date: 2012-06-23 17:58:11 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/all-success-is-not-equal/
+wordpress_id: 357
 ---
 
 Reaching goals while maintaining integrity is true success!

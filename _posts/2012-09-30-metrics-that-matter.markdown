@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-09-30 06:11:22+00:00
-layout: post
-link: https://azizali.com/metrics-that-matter/
-slug: metrics-that-matter
 title: Metrics that matter
-wordpress_id: 559
+date: 2012-09-30 06:11:22 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/metrics-that-matter/
+wordpress_id: 559
 ---
 
 In the tech startup world, people want to portray themselves as big. They measure their success by the amount of money raised, and the number of employees working in the team.

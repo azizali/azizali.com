@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-06 03:59:59+00:00
-layout: post
-link: https://azizali.com/people-do-not-want-solutions-given-to-them-on-a-silver-platter/
-slug: people-do-not-want-solutions-given-to-them-on-a-silver-platter
 title: People do not want solutions given to them on a silver platter
-wordpress_id: 160
+date: 2012-04-06 03:59:59 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/people-do-not-want-solutions-given-to-them-on-a-silver-platter/
+wordpress_id: 160
 ---
 
 I get several emails from people asking about marketing and business advice. I try to respond to their queries as detailed as possible, but surprisingly I do not see them take action.

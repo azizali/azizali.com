@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-17 05:43:39+00:00
-layout: post
-link: https://azizali.com/unacceptable-norms/
-slug: unacceptable-norms
 title: Unacceptable norms
-wordpress_id: 499
+date: 2012-08-17 05:43:39 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/unacceptable-norms/
+wordpress_id: 499
 ---
 
 If something is happening for a long enough time, we think its normal, we may not like it but it is considered NORMAL in our lives. Let me give you a few examples.

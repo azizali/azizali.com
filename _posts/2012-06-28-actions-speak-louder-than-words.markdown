@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-28 02:41:37+00:00
-layout: post
-link: https://azizali.com/actions-speak-louder-than-words/
-slug: actions-speak-louder-than-words
 title: Actions speak louder than words
-wordpress_id: 378
+date: 2012-06-28 02:41:37 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/actions-speak-louder-than-words/
+wordpress_id: 378
 ---
 
 It's easy to preach.

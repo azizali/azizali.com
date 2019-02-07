@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-13 03:43:25+00:00
-layout: post
-link: https://azizali.com/the-easy-lazy-vs-the-long-term-good/
-slug: the-easy-lazy-vs-the-long-term-good
 title: The easy lazy vs the long term good
-wordpress_id: 179
+date: 2012-04-13 03:43:25 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/the-easy-lazy-vs-the-long-term-good/
+wordpress_id: 179
 ---
 
 It's easy to get caught up is the thick of the thin things.

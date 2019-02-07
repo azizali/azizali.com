@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-25 04:51:10+00:00
-layout: post
-link: https://azizali.com/principles-vs-values/
-slug: principles-vs-values
 title: principles vs values
-wordpress_id: 450
+date: 2012-07-25 04:51:10 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/principles-vs-values/
+wordpress_id: 450
 ---
 
 Principles are universal laws that affect our life whether we like it or not.

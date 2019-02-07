@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-02-27 01:27:09+00:00
-layout: post
-link: https://azizali.com/the-managers-dilemma/
-slug: the-managers-dilemma
 title: 'The Managers Dilemma '
-wordpress_id: 41
+date: 2012-02-27 01:27:09 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/the-managers-dilemma/
+wordpress_id: 41
 ---
 
 Most managers think of their employees as stupid, unmotivated and easily replaceable. And they are right. These managers think that they know everything, and employees are like cogs who need to be instructed constantly while they expect perfect results.

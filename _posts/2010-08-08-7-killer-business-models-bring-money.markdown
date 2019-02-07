@@ -1,15 +1,14 @@
 ---
-author: aziz
-comments: true
-date: 2010-08-08 20:40:04+00:00
-layout: post
-link: https://azizali.com/7-killer-business-models-bring-money/
-slug: 7-killer-business-models-bring-money
 title: 6 Killer Business Models bring Money
-wordpress_id: 619
+date: 2010-08-08 20:40:04 Z
 categories:
 - Marketing
 - Startup Journey
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/7-killer-business-models-bring-money/
+wordpress_id: 619
 ---
 
 As a student of marketing, business development, leadership and sales, I have seen many business models existing around us. A few might surprise you, because Bill Gates taped into one to make his billions.<!-- more -->

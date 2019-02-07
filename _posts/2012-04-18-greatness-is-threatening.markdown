@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-18 03:55:39+00:00
-layout: post
-link: https://azizali.com/greatness-is-threatening/
-slug: greatness-is-threatening
 title: Greatness is threatening
-wordpress_id: 196
+date: 2012-04-18 03:55:39 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/greatness-is-threatening/
+wordpress_id: 196
 ---
 
 Often smart people are dumb enough to be threatened by other smart people. The smart boss thinks that the new smart candidate he is interviewing is going to be a superstar and will make him look bad.

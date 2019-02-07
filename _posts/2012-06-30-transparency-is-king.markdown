@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-30 06:56:29+00:00
-layout: post
-link: https://azizali.com/transparency-is-king/
-slug: transparency-is-king
 title: Transparency is king
-wordpress_id: 385
+date: 2012-06-30 06:56:29 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/transparency-is-king/
+wordpress_id: 385
 ---
 
 I am a huge proponent for openness and transparency, because it just makes life easier for everyone in the long run. Here are a few examples.

@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-28 04:24:16+00:00
-layout: post
-link: https://azizali.com/how-do-i-get-more-userscustomers/
-slug: how-do-i-get-more-userscustomers
 title: How do I get more users/customers
-wordpress_id: 135
+date: 2012-03-28 04:24:16 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/how-do-i-get-more-userscustomers/
+wordpress_id: 135
 ---
 
 All business owners and startups ask this question "How do I get more users/customers"

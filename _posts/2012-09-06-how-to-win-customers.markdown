@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-09-06 03:36:52+00:00
-layout: post
-link: https://azizali.com/how-to-win-customers/
-slug: how-to-win-customers
 title: How to win customers
-wordpress_id: 531
+date: 2012-09-06 03:36:52 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/how-to-win-customers/
+wordpress_id: 531
 ---
 
 I have been reading a book on Toyota's leadership style. And I noticed that it talk a lot about the commitment to great product. I then thought Apple also has the same commitment. I was talking to Jeff Judge, founder of Signal and asked him how he was able to grow his company competing with giants in his space like MailChimp, HubSpot, ConstantContact etc. And he again said that his key to success was the focus on the product.

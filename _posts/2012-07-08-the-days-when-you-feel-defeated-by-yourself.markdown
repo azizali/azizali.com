@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-08 04:46:48+00:00
-layout: post
-link: https://azizali.com/the-days-when-you-feel-defeated-by-yourself/
-slug: the-days-when-you-feel-defeated-by-yourself
 title: The days when you feel defeated by yourself
-wordpress_id: 403
+date: 2012-07-08 04:46:48 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/the-days-when-you-feel-defeated-by-yourself/
+wordpress_id: 403
 ---
 
 There will be days when you will not accomplish anything. It will be though to even get your hands on your working notes or files. In the end of the day you will feel unaccomplisbed, loser and the whole world is imperfect and against you.

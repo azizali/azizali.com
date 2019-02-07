@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-10 00:52:20+00:00
-layout: post
-link: https://azizali.com/humanize-everything/
-slug: humanize-everything
 title: Humanize everything
-wordpress_id: 171
+date: 2012-04-10 00:52:20 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/humanize-everything/
+wordpress_id: 171
 ---
 
 Corporations have a policy of being faceless. They spend enormous amount of money on brand advertisement so the consumers recognize their brand or associate with a particular music, catch phrase, color and/or logo

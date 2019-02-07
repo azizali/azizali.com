@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-09-05 02:46:43+00:00
-layout: post
-link: https://azizali.com/holistic-is-the-best-approach/
-slug: holistic-is-the-best-approach
 title: holistic is the best approach
-wordpress_id: 526
+date: 2012-09-05 02:46:43 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/holistic-is-the-best-approach/
+wordpress_id: 526
 ---
 
 I know people who would only build websites in .HTML, others prefer WordPress, Joomla. Drupal. Some wanna program in PHP others in Ruby.

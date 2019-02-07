@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-27 03:37:51+00:00
-layout: post
-link: https://azizali.com/be-true-to-your-project/
-slug: be-true-to-your-project
 title: Be true to your project
-wordpress_id: 221
+date: 2012-04-27 03:37:51 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/be-true-to-your-project/
+wordpress_id: 221
 ---
 
 Artist(programmers, painters, architects, entrepreneurs etc.) pride themselves and trust that they will produce quality art. But then some of them intentionally lower their standards and produce something that is going to be JUST ACCEPTABLE liked by the masses, for everyone, commercial, mass appeal. When you do that, you firstly tax your art and produce not at your best.

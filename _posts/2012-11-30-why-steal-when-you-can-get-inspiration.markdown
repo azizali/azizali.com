@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-11-30 21:51:56+00:00
-layout: post
-link: https://azizali.com/why-steal-when-you-can-get-inspiration/
-slug: why-steal-when-you-can-get-inspiration
 title: Why Steal, When You Can Get Inspiration
-wordpress_id: 590
+date: 2012-11-30 21:51:56 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/why-steal-when-you-can-get-inspiration/
+wordpress_id: 590
 ---
 
 Why did they all use the term Steal, Stealing means someone lost and the thief won. It means the good lost and the bad won

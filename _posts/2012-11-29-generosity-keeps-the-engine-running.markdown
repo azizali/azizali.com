@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-11-29 21:51:48+00:00
-layout: post
-link: https://azizali.com/generosity-keeps-the-engine-running/
-slug: generosity-keeps-the-engine-running
 title: Generosity Keeps the Engine Running
-wordpress_id: 588
+date: 2012-11-29 21:51:48 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/generosity-keeps-the-engine-running/
+wordpress_id: 588
 ---
 
 _"Generosity Keeps the Engine Running" - Austin Kleon_

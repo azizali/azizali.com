@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-30 06:03:06+00:00
-layout: post
-link: https://azizali.com/2-ways-to-improve-your-will-power/
-slug: 2-ways-to-improve-your-will-power
 title: 2 ways to improve your will power
-wordpress_id: 463
+date: 2012-07-30 06:03:06 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/2-ways-to-improve-your-will-power/
+wordpress_id: 463
 ---
 
 I am reading a book titled "the willpower instinct" and it has mentioned two very, very simple ways to improve our willpower muscle.

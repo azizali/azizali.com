@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2013-05-06 22:17:37+00:00
-layout: post
-link: https://azizali.com/obsession-is-a-prerequisite-to-achievement/
-slug: obsession-is-a-prerequisite-to-achievement
 title: Obsession is a prerequisite to achievement
-wordpress_id: 2845
+date: 2013-05-06 22:17:37 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/obsession-is-a-prerequisite-to-achievement/
+wordpress_id: 2845
 ---
 
 Any one who is trying to achieve anything in life must be obsessed about it.

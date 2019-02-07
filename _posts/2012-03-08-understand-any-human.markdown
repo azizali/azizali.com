@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-08 04:54:57+00:00
-layout: post
-link: https://azizali.com/understand-any-human/
-slug: understand-any-human
 title: Understand any Human
-wordpress_id: 70
+date: 2012-03-08 04:54:57 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/understand-any-human/
+wordpress_id: 70
 ---
 
 I was with some friends yesterday and one of them was on the phone when he said to the person on the other end of the line "I am just around the corner". He was clearly miles away. I wondered, if he is lying to another friend of his, it is highly likely he would lie to me in similar situation.

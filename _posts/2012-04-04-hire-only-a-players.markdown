@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-04 03:57:35+00:00
-layout: post
-link: https://azizali.com/hire-only-a-players/
-slug: hire-only-a-players
 title: Hire only "A" players
-wordpress_id: 153
+date: 2012-04-04 03:57:35 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/hire-only-a-players/
+wordpress_id: 153
 ---
 
 I have seen countless times in companies that:

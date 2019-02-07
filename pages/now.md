@@ -1,7 +1,7 @@
 ---
-layout: page
 title: What I am doing these days?
-permalink: /now/
+permalink: "/now/"
+layout: page
 ---
 
 Currently living in Chicago with my family.

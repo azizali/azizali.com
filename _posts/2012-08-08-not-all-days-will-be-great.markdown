@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-08 04:54:10+00:00
-layout: post
-link: https://azizali.com/not-all-days-will-be-great/
-slug: not-all-days-will-be-great
 title: Not all days will be great
-wordpress_id: 482
+date: 2012-08-08 04:54:10 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/not-all-days-will-be-great/
+wordpress_id: 482
 ---
 
 There will be days that you will feel down, with lack of energy. You will feel unproductive for the day. Do not push, to make the day productive, its okay.

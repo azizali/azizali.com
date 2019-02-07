@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-12 05:06:18+00:00
-layout: post
-link: https://azizali.com/i-dont-want-to-listen/
-slug: i-dont-want-to-listen
 title: I don't want to listen
-wordpress_id: 83
+date: 2012-03-12 05:06:18 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/i-dont-want-to-listen/
+wordpress_id: 83
 ---
 
 <blockquote>A woman and her son came to Muhammad(PBUH) and requested him to advise her son to eat less sugar. Muhammad asked the women to come back the next day. When the woman came back with her son the next day, Muhammad advised her son to eat less sugar.

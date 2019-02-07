@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-05 03:24:00+00:00
-layout: post
-link: https://azizali.com/its-not-about-the-idea-its-about-the-implementation/
-slug: its-not-about-the-idea-its-about-the-implementation
 title: Its not about the idea, its about the implementation
-wordpress_id: 156
+date: 2012-04-05 03:24:00 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/its-not-about-the-idea-its-about-the-implementation/
+wordpress_id: 156
 ---
 
 Often aspiring entrepreneurs think of a business idea and think that its too great that the world should pay them for their idea and recognize their excellence for coming up with that idea.

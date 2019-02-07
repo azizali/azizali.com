@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-28 03:19:52+00:00
-layout: post
-link: https://azizali.com/follow-the-rules-and-the-puzzle-will-solve/
-slug: follow-the-rules-and-the-puzzle-will-solve
 title: Follow the rules and the puzzle will solve.
-wordpress_id: 524
+date: 2012-08-28 03:19:52 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/follow-the-rules-and-the-puzzle-will-solve/
+wordpress_id: 524
 ---
 
 When a child gets a puzzle, she attempts to solve it with persistence with the believe that some two pieces go together, and it has to be one of them in the box. The belief comes because of the guarantee provided by the puzzle manufacturer. It's simple, straight forward and obvious.

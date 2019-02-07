@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-27 15:32:54+00:00
-layout: post
-link: https://azizali.com/every-journeys-stress-cycle/
-slug: every-journeys-stress-cycle
 title: Every Journey's Stress Cycle
-wordpress_id: 522
+date: 2012-08-27 15:32:54 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/every-journeys-stress-cycle/
+wordpress_id: 522
 ---
 
 I often go running, my max has been 4.5 miles and I usually run 2-3 miles in a set. In my short experience I have noticed a pattern. As I start running, everything is smooth, and as I have ran 0.3 miles, I feel exhausted, and I have doubts in my mind whether I can ran any further. Usually at this point, I have to push myself.

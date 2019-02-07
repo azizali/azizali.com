@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2011-04-03 03:23:19+00:00
-layout: post
-link: https://azizali.com/rant-getting-real/
-slug: rant-getting-real
 title: Rant! Getting Real
-wordpress_id: 383
+date: 2011-04-03 03:23:19 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/rant-getting-real/
+wordpress_id: 383
 ---
 
 A lot of emails come to my inbox every single day but this one was different. This person cared and spoke from the core.

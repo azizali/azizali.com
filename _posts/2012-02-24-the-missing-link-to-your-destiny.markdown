@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-02-24 13:00:29+00:00
-layout: post
-link: https://azizali.com/the-missing-link-to-your-destiny/
-slug: the-missing-link-to-your-destiny
 title: The Missing Link to Your Destiny
-wordpress_id: 26
+date: 2012-02-24 13:00:29 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/the-missing-link-to-your-destiny/
+wordpress_id: 26
 ---
 
 If this is the road map to your destiny:

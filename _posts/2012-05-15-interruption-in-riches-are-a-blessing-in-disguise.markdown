@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-15 03:04:15+00:00
-layout: post
-link: https://azizali.com/interruption-in-riches-are-a-blessing-in-disguise/
-slug: interruption-in-riches-are-a-blessing-in-disguise
 title: Interruption in riches are a blessing in disguise
-wordpress_id: 261
+date: 2012-05-15 03:04:15 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/interruption-in-riches-are-a-blessing-in-disguise/
+wordpress_id: 261
 ---
 
 Most things in life are truely enjoyed when they are interrupted.

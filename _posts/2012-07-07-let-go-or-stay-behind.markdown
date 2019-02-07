@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-07 07:27:11+00:00
-layout: post
-link: https://azizali.com/let-go-or-stay-behind/
-slug: let-go-or-stay-behind
 title: Let go or stay behind
-wordpress_id: 399
+date: 2012-07-07 07:27:11 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/let-go-or-stay-behind/
+wordpress_id: 399
 ---
 
 A colleague of mine hates me, a lot. The reasons are difference in our working styles. I have tried to talk through our differences many times, have forgiven him for his bad behavior but no wins yet.

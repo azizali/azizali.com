@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-25 05:37:58+00:00
-layout: post
-link: https://azizali.com/commit-to-it-daily/
-slug: commit-to-it-daily
 title: commit to it daily
-wordpress_id: 369
+date: 2012-06-25 05:37:58 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/commit-to-it-daily/
+wordpress_id: 369
 ---
 
 If you want a good body, commit to healthy eating and workout daily.

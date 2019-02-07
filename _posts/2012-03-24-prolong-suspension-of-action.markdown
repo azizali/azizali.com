@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-24 04:42:38+00:00
-layout: post
-link: https://azizali.com/prolong-suspension-of-action/
-slug: prolong-suspension-of-action
 title: Prolong Suspension of Action
-wordpress_id: 116
+date: 2012-03-24 04:42:38 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/prolong-suspension-of-action/
+wordpress_id: 116
 ---
 
 More and more people are buying into the concept of having higher institutional education. Bachelors degree, then masters, then PhD, and in the middle this, random certification programs.

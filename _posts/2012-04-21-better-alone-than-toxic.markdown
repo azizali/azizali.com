@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-21 03:42:53+00:00
-layout: post
-link: https://azizali.com/better-alone-than-toxic/
-slug: better-alone-than-toxic
 title: Better Alone than Toxic
-wordpress_id: 204
+date: 2012-04-21 03:42:53 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/better-alone-than-toxic/
+wordpress_id: 204
 ---
 
 Its better to work alone than to work for, with or along side toxic people.

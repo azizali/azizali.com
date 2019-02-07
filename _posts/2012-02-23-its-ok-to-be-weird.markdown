@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-02-23 14:52:31+00:00
-layout: post
-link: https://azizali.com/its-ok-to-be-weird/
-slug: its-ok-to-be-weird
 title: It's OK to be weird
-wordpress_id: 22
+date: 2012-02-23 14:52:31 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/its-ok-to-be-weird/
+wordpress_id: 22
 ---
 
 It's OK to sing on top of your lungs in your car, and look in the eye of your neighboring drivers while at a stop sign.

@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-04 04:37:47+00:00
-layout: post
-link: https://azizali.com/borrowing-inspiration/
-slug: borrowing-inspiration
 title: Borrowing Inspiration
-wordpress_id: 58
+date: 2012-03-04 04:37:47 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/borrowing-inspiration/
+wordpress_id: 58
 ---
 
 There are countless worlds within our world. Another way of putting it is "There are countless subcultures within our world". What I mean is that there are several enthuriasts in unbelievable areas of life. There is a subculture for Cougars, Pickup Artists, Scrap-bookers, Nerds, Home Farmers, Owners of Black Lexus. From broad to very narrow, there are enthusiast who would defend their subculture like crazy.

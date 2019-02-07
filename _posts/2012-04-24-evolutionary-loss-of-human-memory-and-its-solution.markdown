@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-24 03:04:40+00:00
-layout: post
-link: https://azizali.com/evolutionary-loss-of-human-memory-and-its-solution/
-slug: evolutionary-loss-of-human-memory-and-its-solution
 title: Evolutionary loss of human memory and its solution
-wordpress_id: 214
+date: 2012-04-24 03:04:40 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/evolutionary-loss-of-human-memory-and-its-solution/
+wordpress_id: 214
 ---
 
 There is a old story about a wise man who lived a few thousand years ago before the invention of paper.

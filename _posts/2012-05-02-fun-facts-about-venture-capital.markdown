@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-02 04:11:15+00:00
-layout: post
-link: https://azizali.com/fun-facts-about-venture-capital/
-slug: fun-facts-about-venture-capital
 title: Fun facts about Venture Capital
-wordpress_id: 238
+date: 2012-05-02 04:11:15 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/fun-facts-about-venture-capital/
+wordpress_id: 238
 ---
 
 Venture capitalist does not want you to be profitable. If you have profits they want you to reinvest it in the company so you can grow faster.

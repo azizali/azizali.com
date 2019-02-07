@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-12 03:30:46+00:00
-layout: post
-link: https://azizali.com/imagine-you-are-the-wisest-person/
-slug: imagine-you-are-the-wisest-person
 title: Imagine you are the wisest person
-wordpress_id: 331
+date: 2012-06-12 03:30:46 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/imagine-you-are-the-wisest-person/
+wordpress_id: 331
 ---
 
 Imagine you are 95 years old. You are wise and you are giving advice to your younger self, because now at 95 you see the bigger picture. What would you advise yourself?

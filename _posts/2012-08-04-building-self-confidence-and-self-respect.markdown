@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-04 04:53:45+00:00
-layout: post
-link: https://azizali.com/building-self-confidence-and-self-respect/
-slug: building-self-confidence-and-self-respect
 title: Building self confidence and self respect
-wordpress_id: 472
+date: 2012-08-04 04:53:45 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/building-self-confidence-and-self-respect/
+wordpress_id: 472
 ---
 
 I have found that, when I break my own promises; promises that I made to myself, I trust myself less and hence have less respect for my words.

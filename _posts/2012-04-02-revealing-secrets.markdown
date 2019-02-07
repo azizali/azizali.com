@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-02 03:00:36+00:00
-layout: post
-link: https://azizali.com/revealing-secrets/
-slug: revealing-secrets
 title: Revealing Secrets
-wordpress_id: 125
+date: 2012-04-02 03:00:36 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/revealing-secrets/
+wordpress_id: 125
 ---
 
 A few days ago my 10 year old brother took the initiative to make a milk shake. The normal ingredients he knew to use were milk and fruits (Strawberry and Banana). He thought outside the box and added the chocolate power (normally used for flavoring milk combined with vitamins and stuff) to the mix. He was extremely pleased with his unique shake that was made with Milk, Fruit and this secret chocolate powder that he was sure no body would know about.

@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-02-26 01:40:32+00:00
-layout: post
-link: https://azizali.com/how-do-gurus-make-money/
-slug: how-do-gurus-make-money
 title: How do Gurus' make money
-wordpress_id: 31
+date: 2012-02-26 01:40:32 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/how-do-gurus-make-money/
+wordpress_id: 31
 ---
 
 Every single day, there are 879,548 guru launching in the market, re-purposing and re-spinning the content of the previous guru.

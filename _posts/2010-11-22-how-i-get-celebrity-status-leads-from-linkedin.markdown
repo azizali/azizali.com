@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2010-11-22 03:58:03+00:00
-layout: post
-link: https://azizali.com/how-i-get-celebrity-status-leads-from-linkedin/
-slug: how-i-get-celebrity-status-leads-from-linkedin
 title: How I get Celebrity Status & Leads from LinkedIn
-wordpress_id: 624
+date: 2010-11-22 03:58:03 Z
 categories:
 - Marketing
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/how-i-get-celebrity-status-leads-from-linkedin/
+wordpress_id: 624
 ---
 
 Seriously.... This darn thing is the worlds top 25 most visited websites! Last time I checked, LinkedIn was at rank 23rd. Millions of users, and billions of page views... AKA lots of targeted traffic.

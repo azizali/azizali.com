@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-02 20:36:12+00:00
-layout: post
-link: https://azizali.com/salespeople-get-it-more-than-others/
-slug: salespeople-get-it-more-than-others
 title: Salespeople get it more than others
-wordpress_id: 54
+date: 2012-03-02 20:36:12 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/salespeople-get-it-more-than-others/
+wordpress_id: 54
 ---
 
 I had a brainstorming session with my team today. There were around a dozen people in the conference including people from HR, Product, Sales, Design, and Marketing. As the session progressed the most high leverage ideas came from the sales people. Their ideas beat everyone else's idea based on quantity and quality.

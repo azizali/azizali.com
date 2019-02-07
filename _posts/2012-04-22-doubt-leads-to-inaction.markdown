@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-22 05:08:18+00:00
-layout: post
-link: https://azizali.com/doubt-leads-to-inaction/
-slug: doubt-leads-to-inaction
 title: Doubt Leads to Inaction
-wordpress_id: 208
+date: 2012-04-22 05:08:18 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/doubt-leads-to-inaction/
+wordpress_id: 208
 ---
 
 As humans its our lizard brain who wants us to do nothing in the times of doubt and uncertainty.

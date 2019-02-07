@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-19 03:37:19+00:00
-layout: post
-link: https://azizali.com/transparency-is-your-friend/
-slug: transparency-is-your-friend
 title: Transparency is your friend
-wordpress_id: 198
+date: 2012-04-19 03:37:19 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/transparency-is-your-friend/
+wordpress_id: 198
 ---
 
 When you know nobody is watching you, you will spit on the street or liter in a public place. You would never do that if your in-laws, a cop or that person you have a crush on is watching you.

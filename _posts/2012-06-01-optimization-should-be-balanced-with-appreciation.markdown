@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-01 03:45:23+00:00
-layout: post
-link: https://azizali.com/optimization-should-be-balanced-with-appreciation/
-slug: optimization-should-be-balanced-with-appreciation
 title: Optimization should be balanced with appreciation
-wordpress_id: 305
+date: 2012-06-01 03:45:23 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/optimization-should-be-balanced-with-appreciation/
+wordpress_id: 305
 ---
 
 A person really close to me is an optimizer. She always sees opportunity to fix and improve things. Walking down the stairs she will see 15 different thing not in place and how may be the stair case design can be be improved for smother hold.

@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-26 04:01:58+00:00
-layout: post
-link: https://azizali.com/working-by-the-hour/
-slug: working-by-the-hour
 title: Working by the hour
-wordpress_id: 127
+date: 2012-03-26 04:01:58 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/working-by-the-hour/
+wordpress_id: 127
 ---
 
 Charging by the hour is an ineffective value exchange. It works for junior level jobs but it doesn't work for tasks that require strategic thinking or problem solving.

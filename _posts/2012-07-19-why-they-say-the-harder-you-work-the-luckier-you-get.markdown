@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-19 03:22:15+00:00
-layout: post
-link: https://azizali.com/why-they-say-the-harder-you-work-the-luckier-you-get/
-slug: why-they-say-the-harder-you-work-the-luckier-you-get
 title: Why they say "The Harder You Work, The Luckier You Get"
-wordpress_id: 431
+date: 2012-07-19 03:22:15 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/why-they-say-the-harder-you-work-the-luckier-you-get/
+wordpress_id: 431
 ---
 
 A seminar attendee volunteered to make a few phone calls to signup random people to the seminar. She made 79 calls and did not get a single person to say yes.

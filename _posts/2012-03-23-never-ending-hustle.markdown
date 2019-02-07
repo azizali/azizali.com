@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-23 05:00:33+00:00
-layout: post
-link: https://azizali.com/never-ending-hustle/
-slug: never-ending-hustle
 title: Never Ending Hustle
-wordpress_id: 112
+date: 2012-03-23 05:00:33 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/never-ending-hustle/
+wordpress_id: 112
 ---
 
 I was reading Forbes.com today and found an article on a new and upcoming billionaire [Sara Blakely](http://www.forbes.com/sites/clareoconnor/2012/03/07/undercover-billionaire-sara-blakely-joins-the-rich-list-thanks-to-spanx/). Sara started her company Spanx, a specialty undergarments company for women, while working in a full-time job. Her net worth is now $1 billion and she owns the company 100%.

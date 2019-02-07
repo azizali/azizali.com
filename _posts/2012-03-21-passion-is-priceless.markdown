@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-21 04:12:48+00:00
-layout: post
-link: https://azizali.com/passion-is-priceless/
-slug: passion-is-priceless
 title: Passion is Priceless
-wordpress_id: 107
+date: 2012-03-21 04:12:48 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/passion-is-priceless/
+wordpress_id: 107
 ---
 
 I am at Denver, Colorado right now attending DrupalCon! The founder of Drupal, Dries Buytaert, gave a keynote speech, where he emphasized that the reason why Drupal was so successful was because of its passionate community.

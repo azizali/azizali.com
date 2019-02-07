@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-07 03:26:38+00:00
-layout: post
-link: https://azizali.com/work-less/
-slug: work-less
 title: Work less
-wordpress_id: 163
+date: 2012-04-07 03:26:38 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/work-less/
+wordpress_id: 163
 ---
 
 I read about Sheryl Sandberg, COO of Facebook talking about how she leaves work at 5:30pm consistently. Great to have a work life balance.

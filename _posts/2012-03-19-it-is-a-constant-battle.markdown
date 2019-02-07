@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-19 04:49:38+00:00
-layout: post
-link: https://azizali.com/it-is-a-constant-battle/
-slug: it-is-a-constant-battle
 title: It is a constant battle!
-wordpress_id: 97
+date: 2012-03-19 04:49:38 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/it-is-a-constant-battle/
+wordpress_id: 97
 ---
 
 After Mohammed and his followers came back from a tough and victorious battle, Mohammed announced that there was a bigger battle to be fought. The followers became worried as they were tired and exhausted. Mohammed continued and said that this battle was one with their own self.

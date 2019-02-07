@@ -1,15 +1,14 @@
 ---
-author: aziz
-comments: true
-date: 2010-11-06 04:44:48+00:00
-layout: post
-link: https://azizali.com/google-keyword-tool/
-slug: google-keyword-tool
 title: Google Keyword Tool
-wordpress_id: 623
+date: 2010-11-06 04:44:48 Z
 categories:
 - Marketing
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/google-keyword-tool/
+wordpress_id: 623
 ---
 
 Google Keyword Tool is a free, online keyword research tool by Google. Introduction to Mastery<!-- more -->

@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-16 04:43:48+00:00
-layout: post
-link: https://azizali.com/process-improvement-is-all-you-need/
-slug: process-improvement-is-all-you-need
 title: Process improvement is all you need
-wordpress_id: 264
+date: 2012-05-16 04:43:48 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/process-improvement-is-all-you-need/
+wordpress_id: 264
 ---
 
 It's amazing that the most successful companies do not usually come up with something totally innovative or inventive, but they do come up with a better process.

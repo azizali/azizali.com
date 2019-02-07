@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-04 05:53:26+00:00
-layout: post
-link: https://azizali.com/coaches-are-not-world-class-at-what-they-coach-about/
-slug: coaches-are-not-world-class-at-what-they-coach-about
 title: Coaches Are Not World Class at What They Coach About
-wordpress_id: 393
+date: 2012-07-04 05:53:26 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/coaches-are-not-world-class-at-what-they-coach-about/
+wordpress_id: 393
 ---
 
 Tiger Wood's dad was not world class golfer, but he coached his son to become one.

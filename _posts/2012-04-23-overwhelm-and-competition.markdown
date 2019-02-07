@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-23 03:15:15+00:00
-layout: post
-link: https://azizali.com/overwhelm-and-competition/
-slug: overwhelm-and-competition
 title: Overwhelm and Competition
-wordpress_id: 211
+date: 2012-04-23 03:15:15 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/overwhelm-and-competition/
+wordpress_id: 211
 ---
 
 As I am working on several projects, I discovered several competitors who are already doing what I want to do. Discouraged I got overwhelmed, uncertain, and dishearted on the verge of giving up the project.

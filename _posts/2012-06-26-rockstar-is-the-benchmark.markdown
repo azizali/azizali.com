@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-26 03:38:56+00:00
-layout: post
-link: https://azizali.com/rockstar-is-the-benchmark/
-slug: rockstar-is-the-benchmark
 title: Rockstar is the benchmark
-wordpress_id: 371
+date: 2012-06-26 03:38:56 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/rockstar-is-the-benchmark/
+wordpress_id: 371
 ---
 
 Individually, we all are a different person for different people.

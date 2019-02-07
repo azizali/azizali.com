@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-14 03:26:19+00:00
-layout: post
-link: https://azizali.com/balancing-practice/
-slug: balancing-practice
 title: Balancing Practice
-wordpress_id: 182
+date: 2012-04-14 03:26:19 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/balancing-practice/
+wordpress_id: 182
 ---
 
 A few doctors, engineers, teachers and other professionals were asked "What percentage of their work is mental?" most of them responded that 90% of their work required mental ability.

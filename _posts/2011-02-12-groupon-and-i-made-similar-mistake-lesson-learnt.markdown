@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2011-02-12 18:27:40+00:00
-layout: post
-link: https://azizali.com/groupon-and-i-made-similar-mistake-lesson-learnt/
-slug: groupon-and-i-made-similar-mistake-lesson-learnt
 title: Groupon and I made similar mistake -  Lesson Learnt
-wordpress_id: 626
+date: 2011-02-12 18:27:40 Z
 categories:
 - Marketing
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/groupon-and-i-made-similar-mistake-lesson-learnt/
+wordpress_id: 626
 ---
 
 In my business portfolio, I am a partner in a niche business where our target market are moms.

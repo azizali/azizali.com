@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-01 04:30:57+00:00
-layout: post
-link: https://azizali.com/what-is-life/
-slug: what-is-life
 title: What is life
-wordpress_id: 147
+date: 2012-04-01 04:30:57 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/what-is-life/
+wordpress_id: 147
 ---
 
 Life is a journey, though defined by destination.

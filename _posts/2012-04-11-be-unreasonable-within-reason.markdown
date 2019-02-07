@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-11 03:28:17+00:00
-layout: post
-link: https://azizali.com/be-unreasonable-within-reason/
-slug: be-unreasonable-within-reason
 title: Be unreasonable within reason
-wordpress_id: 173
+date: 2012-04-11 03:28:17 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/be-unreasonable-within-reason/
+wordpress_id: 173
 ---
 
 My shortest, but one of the most profound blog post:

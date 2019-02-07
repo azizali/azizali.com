@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-13 00:40:36+00:00
-layout: post
-link: https://azizali.com/why-do-people-get-so-defensive/
-slug: why-do-people-get-so-defensive
 title: Why do people get so defensive
-wordpress_id: 88
+date: 2012-03-13 00:40:36 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/why-do-people-get-so-defensive/
+wordpress_id: 88
 ---
 
 Jane asked her husband for an hour of his time to go over the home finances. Her husband got totally defensive, and started to ask questions like a lawyer. The fact was that her husband had never been good with money. He knew that Jane was going to attempt to bring him to reality and he totally wanted to avoid this conversation.

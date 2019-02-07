@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-09-21 03:48:49+00:00
-layout: post
-link: https://azizali.com/fear-is-taught-at-early-age/
-slug: fear-is-taught-at-early-age
 title: fear is taught at early.age
-wordpress_id: 546
+date: 2012-09-21 03:48:49 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/fear-is-taught-at-early-age/
+wordpress_id: 546
 ---
 
 Hitler did it by force, and people hated him. Most patents will punish, scold and scream at their children to discipline them. Do you think the child is thinking, "mom is right I should not do that thing"  or the child is thinking, "I am upset, mom.doesn't like me, I made her mad."

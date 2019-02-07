@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-03-30 04:48:09+00:00
-layout: post
-link: https://azizali.com/your-goals-are-near-you/
-slug: your-goals-are-near-you
 title: Your Goals Are Near You
-wordpress_id: 141
+date: 2012-03-30 04:48:09 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/your-goals-are-near-you/
+wordpress_id: 141
 ---
 
 We often think that most of our goals are unachievable. We think that it is easy for others but not for us.

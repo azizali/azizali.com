@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-06-22 17:58:15+00:00
-layout: post
-link: https://azizali.com/you-are-not-a-rockstar-at-everything/
-slug: you-are-not-a-rockstar-at-everything
 title: You are not a rockstar at everything.
-wordpress_id: 359
+date: 2012-06-22 17:58:15 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/you-are-not-a-rockstar-at-everything/
+wordpress_id: 359
 ---
 
 You can not be all things.

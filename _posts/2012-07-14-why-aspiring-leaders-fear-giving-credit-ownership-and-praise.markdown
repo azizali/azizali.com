@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-07-14 07:25:33+00:00
-layout: post
-link: https://azizali.com/why-aspiring-leaders-fear-giving-credit-ownership-and-praise/
-slug: why-aspiring-leaders-fear-giving-credit-ownership-and-praise
 title: Why aspiring leaders fear giving credit, ownership and praise.
-wordpress_id: 421
+date: 2012-07-14 07:25:33 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/why-aspiring-leaders-fear-giving-credit-ownership-and-praise/
+wordpress_id: 421
 ---
 
 Why aspiring leaders fear giving credit, ownership and praise.

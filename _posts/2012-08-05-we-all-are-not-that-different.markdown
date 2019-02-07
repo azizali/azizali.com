@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-08-05 04:54:54+00:00
-layout: post
-link: https://azizali.com/we-all-are-not-that-different/
-slug: we-all-are-not-that-different
 title: We all are not that different
-wordpress_id: 474
+date: 2012-08-05 04:54:54 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/we-all-are-not-that-different/
+wordpress_id: 474
 ---
 
 As we were growing up, we read news and heard on TV about successful people. The kid that invented something, the teenager who made millions, the women who sold an idea or that person that wrote a killer book.

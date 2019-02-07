@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-02-28 18:27:59+00:00
-layout: post
-link: https://azizali.com/tools-are-for-leverage-only/
-slug: tools-are-for-leverage-only
 title: Tools are for leverage only
-wordpress_id: 47
+date: 2012-02-28 18:27:59 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/tools-are-for-leverage-only/
+wordpress_id: 47
 ---
 
 I met one of my best friends through Facebook.

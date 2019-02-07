@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-25 04:49:33+00:00
-layout: post
-link: https://azizali.com/false-ego-frames-and-blinds-you/
-slug: false-ego-frames-and-blinds-you
 title: False ego frames and blinds you
-wordpress_id: 287
+date: 2012-05-25 04:49:33 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/false-ego-frames-and-blinds-you/
+wordpress_id: 287
 ---
 
 A particular person I started working with was great. He was hyper responsive, proactive and smart. Eventually the organization started to put more people under him. He went from managing 2 employees to managing 5, and this was the threshold that lead him to use big words for himself in meetings.

@@ -1,16 +1,15 @@
 ---
-author: aziz
-comments: true
-date: 2010-11-02 02:19:00+00:00
-excerpt: excerpt
-layout: post
-link: https://azizali.com/my-biggest-motivation-keeps-me-on-track/
-slug: my-biggest-motivation-keeps-me-on-track
 title: My Biggest Motivation, Keeps me on Track
-wordpress_id: 77
+date: 2010-11-02 02:19:00 Z
 categories:
 - Marketing
 - Pure Wisdom
+author: aziz
+comments: true
+excerpt: excerpt
+layout: post
+link: https://azizali.com/my-biggest-motivation-keeps-me-on-track/
+wordpress_id: 77
 ---
 
 When Thomas Edison finally invented the first practical working bulb after trying thousands of times for years. (not a dozen but THOUSANDS of times), he handed it over to his assistant to put it away. His assistant <!-- more --> dropped and shattered the bulb into pieces!!!!

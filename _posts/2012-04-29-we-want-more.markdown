@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-04-29 04:42:50+00:00
-layout: post
-link: https://azizali.com/we-want-more/
-slug: we-want-more
 title: We want more
-wordpress_id: 225
+date: 2012-04-29 04:42:50 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/we-want-more/
+wordpress_id: 225
 ---
 
 When you are broke, you say "I would do anything to get a job"

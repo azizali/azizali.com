@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-05-04 03:01:09+00:00
-layout: post
-link: https://azizali.com/marketing-strategy-is-not-outsourcable/
-slug: marketing-strategy-is-not-outsourcable
 title: Marketing & Strategy is not outsourcable
-wordpress_id: 245
+date: 2012-05-04 03:01:09 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/marketing-strategy-is-not-outsourcable/
+wordpress_id: 245
 ---
 
 Marketing and business strategy is not something that you outsource. Many competent people create great solutions, services and products. And after they are done, they start a quest to find a marketer, a distributor or a platform they can leverage to make it big.

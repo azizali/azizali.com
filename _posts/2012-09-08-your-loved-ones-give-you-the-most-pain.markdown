@@ -1,14 +1,13 @@
 ---
-author: aziz
-comments: true
-date: 2012-09-08 04:01:10+00:00
-layout: post
-link: https://azizali.com/your-loved-ones-give-you-the-most-pain/
-slug: your-loved-ones-give-you-the-most-pain
 title: Your loved ones give you the most pain
-wordpress_id: 537
+date: 2012-09-08 04:01:10 Z
 categories:
 - Pure Wisdom
+author: aziz
+comments: true
+layout: post
+link: https://azizali.com/your-loved-ones-give-you-the-most-pain/
+wordpress_id: 537
 ---
 
 Parents worldwide stress over the matter of their kids. Wether they are 5 or 50. If your significant other doesn't respect you, you get frustrated. If someone else doesn't respect, who cares?
