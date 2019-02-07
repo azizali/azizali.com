@@ -10,7 +10,7 @@ Jekyll came to mind since one of my very respectable co-worker was hosting his p
 - [Disqus](https://disqus.com/) for comments
 - [exitwp](https://github.com/thomasf/exitwp) to transfer wordpress posts to jekyll
 - [wordpress-comments-jekyll-staticman](https://www.npmjs.com/package/wordpress-comments-jekyll-staticman) to transfer wordpress comments to staticman
-- Github Pages to host the website
+- Netlify to host the website
 
 ## To run the project
 - `bundle install --path vendor/bundle`
