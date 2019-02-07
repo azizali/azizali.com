@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-23 04:41:57+00:00
 layout: post
-link: http://azizali.com/be-always-willing-to-change/
+link: https://azizali.com/be-always-willing-to-change/
 slug: be-always-willing-to-change
 title: Be always willing to change
 wordpress_id: 283

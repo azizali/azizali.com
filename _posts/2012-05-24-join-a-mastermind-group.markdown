@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-24 04:06:03+00:00
 layout: post
-link: http://azizali.com/join-a-mastermind-group/
+link: https://azizali.com/join-a-mastermind-group/
 slug: join-a-mastermind-group
 title: Join a mastermind group
 wordpress_id: 285

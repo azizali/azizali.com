@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-03 07:07:16+00:00
 layout: post
-link: http://azizali.com/always-be-selling/
+link: https://azizali.com/always-be-selling/
 slug: always-be-selling
 title: Always be selling
 wordpress_id: 309

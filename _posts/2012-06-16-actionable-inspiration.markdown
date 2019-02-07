@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-16 05:17:45+00:00
 layout: post
-link: http://azizali.com/actionable-inspiration/
+link: https://azizali.com/actionable-inspiration/
 slug: actionable-inspiration
 title: Actionable inspiration
 wordpress_id: 339

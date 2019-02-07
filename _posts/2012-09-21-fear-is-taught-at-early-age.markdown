@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-21 03:48:49+00:00
 layout: post
-link: http://azizali.com/fear-is-taught-at-early-age/
+link: https://azizali.com/fear-is-taught-at-early-age/
 slug: fear-is-taught-at-early-age
 title: fear is taught at early.age
 wordpress_id: 546

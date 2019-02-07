@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-14 04:50:22+00:00
 layout: post
-link: http://azizali.com/if-they-dont-get-it-may-be-its-your-problem-not-theirs/
+link: https://azizali.com/if-they-dont-get-it-may-be-its-your-problem-not-theirs/
 slug: if-they-dont-get-it-may-be-its-your-problem-not-theirs
 title: If they don't get it, may be its your problem not theirs
 wordpress_id: 334

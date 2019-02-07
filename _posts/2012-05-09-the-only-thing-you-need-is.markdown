@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-09 04:33:46+00:00
 layout: post
-link: http://azizali.com/the-only-thing-you-need-is/
+link: https://azizali.com/the-only-thing-you-need-is/
 slug: the-only-thing-you-need-is
 title: The only thing you need is...
 wordpress_id: 256

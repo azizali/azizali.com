@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-23 02:29:57+00:00
 layout: post
-link: http://azizali.com/lasting-change/
+link: https://azizali.com/lasting-change/
 slug: lasting-change
 title: Lasting Change
 wordpress_id: 549

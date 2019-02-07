@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-04 04:53:45+00:00
 layout: post
-link: http://azizali.com/building-self-confidence-and-self-respect/
+link: https://azizali.com/building-self-confidence-and-self-respect/
 slug: building-self-confidence-and-self-respect
 title: Building self confidence and self respect
 wordpress_id: 472

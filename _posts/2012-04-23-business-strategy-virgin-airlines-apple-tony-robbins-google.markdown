@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-23 02:21:52+00:00
 layout: post
-link: http://azizali.com/business-strategy-virgin-airlines-apple-tony-robbins-google/
+link: https://azizali.com/business-strategy-virgin-airlines-apple-tony-robbins-google/
 slug: business-strategy-virgin-airlines-apple-tony-robbins-google
 title: Business Strategy used by Virgin Airlines, Apple, Tony Robbins & Google
 wordpress_id: 2229

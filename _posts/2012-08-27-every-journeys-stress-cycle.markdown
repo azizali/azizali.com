@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-27 15:32:54+00:00
 layout: post
-link: http://azizali.com/every-journeys-stress-cycle/
+link: https://azizali.com/every-journeys-stress-cycle/
 slug: every-journeys-stress-cycle
 title: Every Journey's Stress Cycle
 wordpress_id: 522

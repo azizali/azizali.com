@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-25 04:51:10+00:00
 layout: post
-link: http://azizali.com/principles-vs-values/
+link: https://azizali.com/principles-vs-values/
 slug: principles-vs-values
 title: principles vs values
 wordpress_id: 450

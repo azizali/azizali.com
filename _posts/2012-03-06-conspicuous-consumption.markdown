@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-06 18:52:51+00:00
 layout: post
-link: http://azizali.com/conspicuous-consumption/
+link: https://azizali.com/conspicuous-consumption/
 slug: conspicuous-consumption
 title: Conspicuous Consumption
 wordpress_id: 66

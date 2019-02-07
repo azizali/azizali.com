@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-20 04:21:55+00:00
 layout: post
-link: http://azizali.com/its-all-about-the-lens/
+link: https://azizali.com/its-all-about-the-lens/
 slug: its-all-about-the-lens
 title: Its all about the lens
 wordpress_id: 100

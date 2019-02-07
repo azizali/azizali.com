@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-28 02:41:37+00:00
 layout: post
-link: http://azizali.com/actions-speak-louder-than-words/
+link: https://azizali.com/actions-speak-louder-than-words/
 slug: actions-speak-louder-than-words
 title: Actions speak louder than words
 wordpress_id: 378

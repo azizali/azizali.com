@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-14 03:26:19+00:00
 layout: post
-link: http://azizali.com/balancing-practice/
+link: https://azizali.com/balancing-practice/
 slug: balancing-practice
 title: Balancing Practice
 wordpress_id: 182

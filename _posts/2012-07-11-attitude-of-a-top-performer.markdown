@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-11 04:56:19+00:00
 layout: post
-link: http://azizali.com/attitude-of-a-top-performer/
+link: https://azizali.com/attitude-of-a-top-performer/
 slug: attitude-of-a-top-performer
 title: Attitude of a Top performer
 wordpress_id: 409

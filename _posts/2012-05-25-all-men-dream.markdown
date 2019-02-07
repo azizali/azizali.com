@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-25 05:19:45+00:00
 layout: post
-link: http://azizali.com/all-men-dream/
+link: https://azizali.com/all-men-dream/
 slug: all-men-dream
 title: All Men Dream
 wordpress_id: 290

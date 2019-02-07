@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2018-05-07 12:24:44+00:00
 layout: post
-link: http://azizali.com/patrick-collison/
+link: https://azizali.com/patrick-collison/
 slug: patrick-collison
 title: What I learned from a billionaire I met - co-founder and CEO of Stripe
 categories:

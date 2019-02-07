@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-12 03:30:46+00:00
 layout: post
-link: http://azizali.com/imagine-you-are-the-wisest-person/
+link: https://azizali.com/imagine-you-are-the-wisest-person/
 slug: imagine-you-are-the-wisest-person
 title: Imagine you are the wisest person
 wordpress_id: 331

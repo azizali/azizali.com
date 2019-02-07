@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-09 04:08:10+00:00
 layout: post
-link: http://azizali.com/big-picture-vs-small-picture/
+link: https://azizali.com/big-picture-vs-small-picture/
 slug: big-picture-vs-small-picture
 title: Big Picture vs. Small Picture
 wordpress_id: 579

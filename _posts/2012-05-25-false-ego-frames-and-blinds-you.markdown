@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-25 04:49:33+00:00
 layout: post
-link: http://azizali.com/false-ego-frames-and-blinds-you/
+link: https://azizali.com/false-ego-frames-and-blinds-you/
 slug: false-ego-frames-and-blinds-you
 title: False ego frames and blinds you
 wordpress_id: 287

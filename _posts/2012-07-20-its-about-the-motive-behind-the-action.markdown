@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-20 03:48:44+00:00
 layout: post
-link: http://azizali.com/its-about-the-motive-behind-the-action/
+link: https://azizali.com/its-about-the-motive-behind-the-action/
 slug: its-about-the-motive-behind-the-action
 title: its about the motive behind the action
 wordpress_id: 433

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-29 04:25:15+00:00
 layout: post
-link: http://azizali.com/mental-training/
+link: https://azizali.com/mental-training/
 slug: mental-training
 title: Mental Training
 wordpress_id: 139

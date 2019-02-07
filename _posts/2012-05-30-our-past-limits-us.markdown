@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-30 23:47:48+00:00
 layout: post
-link: http://azizali.com/our-past-limits-us/
+link: https://azizali.com/our-past-limits-us/
 slug: our-past-limits-us
 title: Our past limits us
 wordpress_id: 303

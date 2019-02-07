@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-26 04:44:17+00:00
 layout: post
-link: http://azizali.com/2-prerequisite-of-being-an-entrepreneur/
+link: https://azizali.com/2-prerequisite-of-being-an-entrepreneur/
 slug: 2-prerequisite-of-being-an-entrepreneur
 title: 2 prerequisite of being an entrepreneur
 wordpress_id: 219

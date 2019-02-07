@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-11 21:38:49+00:00
 layout: post
-link: http://azizali.com/versatile/
+link: https://azizali.com/versatile/
 slug: versatile
 title: Versatile
 wordpress_id: 259

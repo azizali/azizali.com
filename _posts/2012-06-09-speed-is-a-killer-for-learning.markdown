@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-09 05:24:25+00:00
 layout: post
-link: http://azizali.com/speed-is-a-killer-for-learning/
+link: https://azizali.com/speed-is-a-killer-for-learning/
 slug: speed-is-a-killer-for-learning
 title: Speed is a killer for learning
 wordpress_id: 324

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-10 00:52:20+00:00
 layout: post
-link: http://azizali.com/humanize-everything/
+link: https://azizali.com/humanize-everything/
 slug: humanize-everything
 title: Humanize everything
 wordpress_id: 171

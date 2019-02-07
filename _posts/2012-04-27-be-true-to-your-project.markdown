@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-27 03:37:51+00:00
 layout: post
-link: http://azizali.com/be-true-to-your-project/
+link: https://azizali.com/be-true-to-your-project/
 slug: be-true-to-your-project
 title: Be true to your project
 wordpress_id: 221

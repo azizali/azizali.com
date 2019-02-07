@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-09 05:08:41+00:00
 layout: post
-link: http://azizali.com/its-easier-to-do-than-avoid-doing/
+link: https://azizali.com/its-easier-to-do-than-avoid-doing/
 slug: its-easier-to-do-than-avoid-doing
 title: its easier to do, than avoid doing
 wordpress_id: 484

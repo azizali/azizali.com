@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2011-02-12 18:27:40+00:00
 layout: post
-link: http://azizali.com/groupon-and-i-made-similar-mistake-lesson-learnt/
+link: https://azizali.com/groupon-and-i-made-similar-mistake-lesson-learnt/
 slug: groupon-and-i-made-similar-mistake-lesson-learnt
 title: Groupon and I made similar mistake -  Lesson Learnt
 wordpress_id: 626

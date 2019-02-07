@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-16 04:06:35+00:00
 layout: post
-link: http://azizali.com/small-losses-are-a-cheap-price-for-learning/
+link: https://azizali.com/small-losses-are-a-cheap-price-for-learning/
 slug: small-losses-are-a-cheap-price-for-learning
 title: Small losses are a cheap price for learning
 wordpress_id: 425

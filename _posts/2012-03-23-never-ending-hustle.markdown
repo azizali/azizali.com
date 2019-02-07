@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-23 05:00:33+00:00
 layout: post
-link: http://azizali.com/never-ending-hustle/
+link: https://azizali.com/never-ending-hustle/
 slug: never-ending-hustle
 title: Never Ending Hustle
 wordpress_id: 112

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-15 04:49:56+00:00
 layout: post
-link: http://azizali.com/goals-are-dreams-with-a-due-date/
+link: https://azizali.com/goals-are-dreams-with-a-due-date/
 slug: goals-are-dreams-with-a-due-date
 title: Goals are dreams with a due date
 wordpress_id: 423

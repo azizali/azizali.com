@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-19 04:51:59+00:00
 layout: post
-link: http://azizali.com/paying-your-dues/
+link: https://azizali.com/paying-your-dues/
 slug: paying-your-dues
 title: Paying your dues
 wordpress_id: 505

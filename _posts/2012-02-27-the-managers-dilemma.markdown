@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-02-27 01:27:09+00:00
 layout: post
-link: http://azizali.com/the-managers-dilemma/
+link: https://azizali.com/the-managers-dilemma/
 slug: the-managers-dilemma
 title: 'The Managers Dilemma '
 wordpress_id: 41

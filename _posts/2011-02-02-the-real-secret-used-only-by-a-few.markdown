@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2011-02-02 02:02:43+00:00
 layout: post
-link: http://azizali.com/the-real-secret-used-only-by-a-few/
+link: https://azizali.com/the-real-secret-used-only-by-a-few/
 slug: the-real-secret-used-only-by-a-few
 title: The REAL secret used only by a few
 wordpress_id: 625

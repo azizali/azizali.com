@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-03 02:38:19+00:00
 layout: post
-link: http://azizali.com/our-future-self-exists-today/
+link: https://azizali.com/our-future-self-exists-today/
 slug: our-future-self-exists-today
 title: Our future self, exists today
 wordpress_id: 468

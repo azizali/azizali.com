@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-19 04:49:38+00:00
 layout: post
-link: http://azizali.com/it-is-a-constant-battle/
+link: https://azizali.com/it-is-a-constant-battle/
 slug: it-is-a-constant-battle
 title: It is a constant battle!
 wordpress_id: 97

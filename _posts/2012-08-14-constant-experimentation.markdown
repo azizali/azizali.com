@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-14 05:03:36+00:00
 layout: post
-link: http://azizali.com/constant-experimentation/
+link: https://azizali.com/constant-experimentation/
 slug: constant-experimentation
 title: Constant Experimentation
 wordpress_id: 490

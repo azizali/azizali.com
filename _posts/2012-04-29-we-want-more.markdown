@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-29 04:42:50+00:00
 layout: post
-link: http://azizali.com/we-want-more/
+link: https://azizali.com/we-want-more/
 slug: we-want-more
 title: We want more
 wordpress_id: 225

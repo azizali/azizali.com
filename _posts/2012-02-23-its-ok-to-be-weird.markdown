@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-02-23 14:52:31+00:00
 layout: post
-link: http://azizali.com/its-ok-to-be-weird/
+link: https://azizali.com/its-ok-to-be-weird/
 slug: its-ok-to-be-weird
 title: It's OK to be weird
 wordpress_id: 22

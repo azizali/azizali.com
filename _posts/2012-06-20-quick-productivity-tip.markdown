@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-20 05:46:56+00:00
 layout: post
-link: http://azizali.com/quick-productivity-tip/
+link: https://azizali.com/quick-productivity-tip/
 slug: quick-productivity-tip
 title: Quick Productivity Tip
 wordpress_id: 351

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-27 05:45:16+00:00
 layout: post
-link: http://azizali.com/the-product-is-for-the-customer-only/
+link: https://azizali.com/the-product-is-for-the-customer-only/
 slug: the-product-is-for-the-customer-only
 title: The product is for the customer only
 wordpress_id: 295

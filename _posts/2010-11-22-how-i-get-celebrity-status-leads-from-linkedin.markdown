@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2010-11-22 03:58:03+00:00
 layout: post
-link: http://azizali.com/how-i-get-celebrity-status-leads-from-linkedin/
+link: https://azizali.com/how-i-get-celebrity-status-leads-from-linkedin/
 slug: how-i-get-celebrity-status-leads-from-linkedin
 title: How I get Celebrity Status & Leads from LinkedIn
 wordpress_id: 624

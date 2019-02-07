@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-05 02:46:43+00:00
 layout: post
-link: http://azizali.com/holistic-is-the-best-approach/
+link: https://azizali.com/holistic-is-the-best-approach/
 slug: holistic-is-the-best-approach
 title: holistic is the best approach
 wordpress_id: 526

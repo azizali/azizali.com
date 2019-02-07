@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-06 05:36:33+00:00
 layout: post
-link: http://azizali.com/give-people-a-break-if-they-deserve-it/
+link: https://azizali.com/give-people-a-break-if-they-deserve-it/
 slug: give-people-a-break-if-they-deserve-it
 title: Give people a break, if they deserve it
 wordpress_id: 478

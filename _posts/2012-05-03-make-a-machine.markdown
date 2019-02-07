@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-03 04:32:16+00:00
 layout: post
-link: http://azizali.com/make-a-machine/
+link: https://azizali.com/make-a-machine/
 slug: make-a-machine
 title: Make a machine
 wordpress_id: 240

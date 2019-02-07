@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-16 05:12:09+00:00
 layout: post
-link: http://azizali.com/reality-of-estimates/
+link: https://azizali.com/reality-of-estimates/
 slug: reality-of-estimates
 title: Reality of Estimates
 wordpress_id: 496

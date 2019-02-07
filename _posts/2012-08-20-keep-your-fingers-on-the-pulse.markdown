@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-20 07:46:48+00:00
 layout: post
-link: http://azizali.com/keep-your-fingers-on-the-pulse/
+link: https://azizali.com/keep-your-fingers-on-the-pulse/
 slug: keep-your-fingers-on-the-pulse
 title: Keep your fingers on the pulse
 wordpress_id: 508

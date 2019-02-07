@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-02-28 18:27:59+00:00
 layout: post
-link: http://azizali.com/tools-are-for-leverage-only/
+link: https://azizali.com/tools-are-for-leverage-only/
 slug: tools-are-for-leverage-only
 title: Tools are for leverage only
 wordpress_id: 47

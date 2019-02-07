@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-08 04:46:48+00:00
 layout: post
-link: http://azizali.com/the-days-when-you-feel-defeated-by-yourself/
+link: https://azizali.com/the-days-when-you-feel-defeated-by-yourself/
 slug: the-days-when-you-feel-defeated-by-yourself
 title: The days when you feel defeated by yourself
 wordpress_id: 403

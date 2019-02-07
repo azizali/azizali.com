@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-02-24 13:00:29+00:00
 layout: post
-link: http://azizali.com/the-missing-link-to-your-destiny/
+link: https://azizali.com/the-missing-link-to-your-destiny/
 slug: the-missing-link-to-your-destiny
 title: The Missing Link to Your Destiny
 wordpress_id: 26

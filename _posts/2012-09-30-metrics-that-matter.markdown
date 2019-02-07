@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-30 06:11:22+00:00
 layout: post
-link: http://azizali.com/metrics-that-matter/
+link: https://azizali.com/metrics-that-matter/
 slug: metrics-that-matter
 title: Metrics that matter
 wordpress_id: 559

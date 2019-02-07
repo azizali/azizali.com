@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-05 23:23:17+00:00
 layout: post
-link: http://azizali.com/social-manipulation/
+link: https://azizali.com/social-manipulation/
 slug: social-manipulation
 title: 'Social Manipulation '
 wordpress_id: 68

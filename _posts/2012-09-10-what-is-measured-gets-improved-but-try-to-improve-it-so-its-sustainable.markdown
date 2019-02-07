@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-10 03:03:24+00:00
 layout: post
-link: http://azizali.com/what-is-measured-gets-improved-but-try-to-improve-it-so-its-sustainable/
+link: https://azizali.com/what-is-measured-gets-improved-but-try-to-improve-it-so-its-sustainable/
 slug: what-is-measured-gets-improved-but-try-to-improve-it-so-its-sustainable
 title: what is measured gets improved, but try to improve it so its sustainable
 wordpress_id: 541

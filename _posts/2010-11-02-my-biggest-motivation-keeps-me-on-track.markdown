@@ -4,7 +4,7 @@ comments: true
 date: 2010-11-02 02:19:00+00:00
 excerpt: excerpt
 layout: post
-link: http://azizali.com/my-biggest-motivation-keeps-me-on-track/
+link: https://azizali.com/my-biggest-motivation-keeps-me-on-track/
 slug: my-biggest-motivation-keeps-me-on-track
 title: My Biggest Motivation, Keeps me on Track
 wordpress_id: 77

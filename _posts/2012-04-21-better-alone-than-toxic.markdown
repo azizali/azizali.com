@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-21 03:42:53+00:00
 layout: post
-link: http://azizali.com/better-alone-than-toxic/
+link: https://azizali.com/better-alone-than-toxic/
 slug: better-alone-than-toxic
 title: Better Alone than Toxic
 wordpress_id: 204

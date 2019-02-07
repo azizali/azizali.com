@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-05 04:54:54+00:00
 layout: post
-link: http://azizali.com/we-all-are-not-that-different/
+link: https://azizali.com/we-all-are-not-that-different/
 slug: we-all-are-not-that-different
 title: We all are not that different
 wordpress_id: 474

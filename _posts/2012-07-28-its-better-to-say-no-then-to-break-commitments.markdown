@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-28 08:10:58+00:00
 layout: post
-link: http://azizali.com/its-better-to-say-no-then-to-break-commitments/
+link: https://azizali.com/its-better-to-say-no-then-to-break-commitments/
 slug: its-better-to-say-no-then-to-break-commitments
 title: its better to say no then to break commitments
 wordpress_id: 459

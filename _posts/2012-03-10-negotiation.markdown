@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-10 05:30:53+00:00
 layout: post
-link: http://azizali.com/negotiation/
+link: https://azizali.com/negotiation/
 slug: negotiation
 title: Negotiation
 wordpress_id: 81

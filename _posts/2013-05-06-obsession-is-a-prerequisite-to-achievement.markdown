@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2013-05-06 22:17:37+00:00
 layout: post
-link: http://azizali.com/obsession-is-a-prerequisite-to-achievement/
+link: https://azizali.com/obsession-is-a-prerequisite-to-achievement/
 slug: obsession-is-a-prerequisite-to-achievement
 title: Obsession is a prerequisite to achievement
 wordpress_id: 2845

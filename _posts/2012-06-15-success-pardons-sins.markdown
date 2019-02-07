@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-15 03:32:58+00:00
 layout: post
-link: http://azizali.com/success-pardons-sins/
+link: https://azizali.com/success-pardons-sins/
 slug: success-pardons-sins
 title: Success pardons sins
 wordpress_id: 337

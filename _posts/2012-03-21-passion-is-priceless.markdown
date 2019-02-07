@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-21 04:12:48+00:00
 layout: post
-link: http://azizali.com/passion-is-priceless/
+link: https://azizali.com/passion-is-priceless/
 slug: passion-is-priceless
 title: Passion is Priceless
 wordpress_id: 107

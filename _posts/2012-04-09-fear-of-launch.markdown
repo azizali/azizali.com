@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-09 02:23:02+00:00
 layout: post
-link: http://azizali.com/fear-of-launch/
+link: https://azizali.com/fear-of-launch/
 slug: fear-of-launch
 title: Fear of launch
 wordpress_id: 169

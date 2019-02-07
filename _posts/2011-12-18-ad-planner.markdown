@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2011-12-18 02:20:38+00:00
 layout: post
-link: http://azizali.com/ad-planner/
+link: https://azizali.com/ad-planner/
 slug: ad-planner
 title: Ad Planner - In depth Competitive Analysis at your fingertips
 wordpress_id: 629

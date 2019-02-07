@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-04 04:37:47+00:00
 layout: post
-link: http://azizali.com/borrowing-inspiration/
+link: https://azizali.com/borrowing-inspiration/
 slug: borrowing-inspiration
 title: Borrowing Inspiration
 wordpress_id: 58

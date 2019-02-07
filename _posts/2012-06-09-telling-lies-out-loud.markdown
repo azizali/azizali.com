@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-09 15:24:38+00:00
 layout: post
-link: http://azizali.com/telling-lies-out-loud/
+link: https://azizali.com/telling-lies-out-loud/
 slug: telling-lies-out-loud
 title: Telling lies out loud
 wordpress_id: 327

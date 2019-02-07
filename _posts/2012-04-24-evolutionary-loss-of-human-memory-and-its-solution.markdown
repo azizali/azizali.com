@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-24 03:04:40+00:00
 layout: post
-link: http://azizali.com/evolutionary-loss-of-human-memory-and-its-solution/
+link: https://azizali.com/evolutionary-loss-of-human-memory-and-its-solution/
 slug: evolutionary-loss-of-human-memory-and-its-solution
 title: Evolutionary loss of human memory and its solution
 wordpress_id: 214

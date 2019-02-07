@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-17 04:05:23+00:00
 layout: post
-link: http://azizali.com/kind-words-excel-human-potential/
+link: https://azizali.com/kind-words-excel-human-potential/
 slug: kind-words-excel-human-potential
 title: Kind words excel human potential
 wordpress_id: 266

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-12 04:36:14+00:00
 layout: post
-link: http://azizali.com/are-you-giving-up-way-to-early/
+link: https://azizali.com/are-you-giving-up-way-to-early/
 slug: are-you-giving-up-way-to-early
 title: Are you giving up way to early?
 wordpress_id: 488

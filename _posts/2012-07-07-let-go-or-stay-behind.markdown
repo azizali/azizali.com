@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-07 07:27:11+00:00
 layout: post
-link: http://azizali.com/let-go-or-stay-behind/
+link: https://azizali.com/let-go-or-stay-behind/
 slug: let-go-or-stay-behind
 title: Let go or stay behind
 wordpress_id: 399

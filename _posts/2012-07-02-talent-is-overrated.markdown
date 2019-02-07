@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-02 05:01:21+00:00
 layout: post
-link: http://azizali.com/talent-is-overrated/
+link: https://azizali.com/talent-is-overrated/
 slug: talent-is-overrated
 title: Talent Is Overrated
 wordpress_id: 387

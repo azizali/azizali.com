@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-30 04:48:09+00:00
 layout: post
-link: http://azizali.com/your-goals-are-near-you/
+link: https://azizali.com/your-goals-are-near-you/
 slug: your-goals-are-near-you
 title: Your Goals Are Near You
 wordpress_id: 141

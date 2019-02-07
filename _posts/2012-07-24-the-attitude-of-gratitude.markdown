@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-24 04:56:46+00:00
 layout: post
-link: http://azizali.com/the-attitude-of-gratitude/
+link: https://azizali.com/the-attitude-of-gratitude/
 slug: the-attitude-of-gratitude
 title: The Attitude of Gratitude
 wordpress_id: 447

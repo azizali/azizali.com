@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-20 03:12:10+00:00
 layout: post
-link: http://azizali.com/association-with-the-popular/
+link: https://azizali.com/association-with-the-popular/
 slug: association-with-the-popular
 title: association with the popular
 wordpress_id: 544

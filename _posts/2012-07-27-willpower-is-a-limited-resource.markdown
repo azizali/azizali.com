@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-27 04:23:13+00:00
 layout: post
-link: http://azizali.com/willpower-is-a-limited-resource/
+link: https://azizali.com/willpower-is-a-limited-resource/
 slug: willpower-is-a-limited-resource
 title: Willpower is a limited resource
 wordpress_id: 456

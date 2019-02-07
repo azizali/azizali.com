@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-10 01:58:50+00:00
 layout: post
-link: http://azizali.com/the-safe-vs-right-path/
+link: https://azizali.com/the-safe-vs-right-path/
 slug: the-safe-vs-right-path
 title: The safe vs right path
 wordpress_id: 407

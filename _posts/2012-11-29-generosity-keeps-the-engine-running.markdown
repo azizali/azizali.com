@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-11-29 21:51:48+00:00
 layout: post
-link: http://azizali.com/generosity-keeps-the-engine-running/
+link: https://azizali.com/generosity-keeps-the-engine-running/
 slug: generosity-keeps-the-engine-running
 title: Generosity Keeps the Engine Running
 wordpress_id: 588

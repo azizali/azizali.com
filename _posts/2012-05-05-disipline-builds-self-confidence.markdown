@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-05 05:45:16+00:00
 layout: post
-link: http://azizali.com/disipline-builds-self-confidence/
+link: https://azizali.com/disipline-builds-self-confidence/
 slug: disipline-builds-self-confidence
 title: disipline builds self confidence
 wordpress_id: 247

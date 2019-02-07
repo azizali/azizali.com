@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-25 03:08:55+00:00
 layout: post
-link: http://azizali.com/we-are-bias-creatures-by-design/
+link: https://azizali.com/we-are-bias-creatures-by-design/
 slug: we-are-bias-creatures-by-design
 title: We are bias creatures by design
 wordpress_id: 217

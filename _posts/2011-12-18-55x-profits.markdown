@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2011-12-18 02:15:50+00:00
 layout: post
-link: http://azizali.com/55x-profits/
+link: https://azizali.com/55x-profits/
 slug: 55x-profits
 title: Best Marketing Strategy and 55x-profits
 wordpress_id: 628

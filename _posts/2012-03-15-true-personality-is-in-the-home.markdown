@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-15 03:13:21+00:00
 layout: post
-link: http://azizali.com/true-personality-is-in-the-home/
+link: https://azizali.com/true-personality-is-in-the-home/
 slug: true-personality-is-in-the-home
 title: True personality is in the home
 wordpress_id: 86

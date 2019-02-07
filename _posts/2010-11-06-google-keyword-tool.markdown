@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2010-11-06 04:44:48+00:00
 layout: post
-link: http://azizali.com/google-keyword-tool/
+link: https://azizali.com/google-keyword-tool/
 slug: google-keyword-tool
 title: Google Keyword Tool
 wordpress_id: 623

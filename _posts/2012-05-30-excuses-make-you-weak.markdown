@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-30 04:40:48+00:00
 layout: post
-link: http://azizali.com/excuses-make-you-weak/
+link: https://azizali.com/excuses-make-you-weak/
 slug: excuses-make-you-weak
 title: Excuses make you weak
 wordpress_id: 301

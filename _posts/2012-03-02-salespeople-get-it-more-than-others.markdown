@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-02 20:36:12+00:00
 layout: post
-link: http://azizali.com/salespeople-get-it-more-than-others/
+link: https://azizali.com/salespeople-get-it-more-than-others/
 slug: salespeople-get-it-more-than-others
 title: Salespeople get it more than others
 wordpress_id: 54

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-30 06:03:06+00:00
 layout: post
-link: http://azizali.com/2-ways-to-improve-your-will-power/
+link: https://azizali.com/2-ways-to-improve-your-will-power/
 slug: 2-ways-to-improve-your-will-power
 title: 2 ways to improve your will power
 wordpress_id: 463

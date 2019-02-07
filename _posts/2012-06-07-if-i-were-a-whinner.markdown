@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-07 02:45:12+00:00
 layout: post
-link: http://azizali.com/if-i-were-a-whinner/
+link: https://azizali.com/if-i-were-a-whinner/
 slug: if-i-were-a-whinner
 title: if i were a whinner
 wordpress_id: 318

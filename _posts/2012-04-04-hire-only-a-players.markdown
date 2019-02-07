@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-04 03:57:35+00:00
 layout: post
-link: http://azizali.com/hire-only-a-players/
+link: https://azizali.com/hire-only-a-players/
 slug: hire-only-a-players
 title: Hire only "A" players
 wordpress_id: 153

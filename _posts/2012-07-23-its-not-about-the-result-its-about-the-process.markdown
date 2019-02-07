@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-23 05:08:37+00:00
 layout: post
-link: http://azizali.com/its-not-about-the-result-its-about-the-process/
+link: https://azizali.com/its-not-about-the-result-its-about-the-process/
 slug: its-not-about-the-result-its-about-the-process
 title: Its not about the result, its about the process
 wordpress_id: 436

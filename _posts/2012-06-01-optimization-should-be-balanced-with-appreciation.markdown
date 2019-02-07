@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-01 03:45:23+00:00
 layout: post
-link: http://azizali.com/optimization-should-be-balanced-with-appreciation/
+link: https://azizali.com/optimization-should-be-balanced-with-appreciation/
 slug: optimization-should-be-balanced-with-appreciation
 title: Optimization should be balanced with appreciation
 wordpress_id: 305

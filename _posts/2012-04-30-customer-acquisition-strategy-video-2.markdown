@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-30 02:44:38+00:00
 layout: post
-link: http://azizali.com/customer-acquisition-strategy-video-2/
+link: https://azizali.com/customer-acquisition-strategy-video-2/
 slug: customer-acquisition-strategy-video-2
 title: Customer Acquisition Strategy [video]
 wordpress_id: 2838

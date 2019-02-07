@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-09 04:44:47+00:00
 layout: post
-link: http://azizali.com/launch-effort-is-huge/
+link: https://azizali.com/launch-effort-is-huge/
 slug: launch-effort-is-huge
 title: Launch effort is huge
 wordpress_id: 405

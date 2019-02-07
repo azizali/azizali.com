@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-01 02:56:22+00:00
 layout: post
-link: http://azizali.com/thinking-is-not-producing/
+link: https://azizali.com/thinking-is-not-producing/
 slug: thinking-is-not-producing
 title: Thinking is not producing
 wordpress_id: 465

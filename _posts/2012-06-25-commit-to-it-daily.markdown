@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-25 05:37:58+00:00
 layout: post
-link: http://azizali.com/commit-to-it-daily/
+link: https://azizali.com/commit-to-it-daily/
 slug: commit-to-it-daily
 title: commit to it daily
 wordpress_id: 369

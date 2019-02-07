@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-16 04:43:48+00:00
 layout: post
-link: http://azizali.com/process-improvement-is-all-you-need/
+link: https://azizali.com/process-improvement-is-all-you-need/
 slug: process-improvement-is-all-you-need
 title: Process improvement is all you need
 wordpress_id: 264

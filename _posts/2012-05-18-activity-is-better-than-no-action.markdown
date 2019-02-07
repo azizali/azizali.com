@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-18 03:30:31+00:00
 layout: post
-link: http://azizali.com/activity-is-better-than-no-action/
+link: https://azizali.com/activity-is-better-than-no-action/
 slug: activity-is-better-than-no-action
 title: Activity is better than no action
 wordpress_id: 268

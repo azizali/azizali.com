@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-08 22:58:45+00:00
 layout: post
-link: http://azizali.com/highest-leverage-a-human-can-have/
+link: https://azizali.com/highest-leverage-a-human-can-have/
 slug: highest-leverage-a-human-can-have
 title: Highest Leverage a Human can have
 wordpress_id: 73

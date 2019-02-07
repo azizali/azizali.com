@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-17 03:42:33+00:00
 layout: post
-link: http://azizali.com/you-dont-know-what-you-dont-know/
+link: https://azizali.com/you-dont-know-what-you-dont-know/
 slug: you-dont-know-what-you-dont-know
 title: You don't know what you don't know
 wordpress_id: 427

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-01 04:30:57+00:00
 layout: post
-link: http://azizali.com/what-is-life/
+link: https://azizali.com/what-is-life/
 slug: what-is-life
 title: What is life
 wordpress_id: 147

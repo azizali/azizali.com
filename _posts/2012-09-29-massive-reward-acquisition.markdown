@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-29 05:57:55+00:00
 layout: post
-link: http://azizali.com/massive-reward-acquisition/
+link: https://azizali.com/massive-reward-acquisition/
 slug: massive-reward-acquisition
 title: Massive Reward Acquisition
 wordpress_id: 556

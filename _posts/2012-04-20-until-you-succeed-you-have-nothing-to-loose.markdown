@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-20 04:30:55+00:00
 layout: post
-link: http://azizali.com/until-you-succeed-you-have-nothing-to-loose/
+link: https://azizali.com/until-you-succeed-you-have-nothing-to-loose/
 slug: until-you-succeed-you-have-nothing-to-loose
 title: Until you succeed, you have nothing to lose
 wordpress_id: 200

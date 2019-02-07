@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-09 07:33:35+00:00
 layout: post
-link: http://azizali.com/22nd-time-is-a-charm/
+link: https://azizali.com/22nd-time-is-a-charm/
 slug: 22nd-time-is-a-charm
 title: 22nd time is a charm
 wordpress_id: 539

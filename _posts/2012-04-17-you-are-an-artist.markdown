@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-17 03:04:15+00:00
 layout: post
-link: http://azizali.com/you-are-an-artist/
+link: https://azizali.com/you-are-an-artist/
 slug: you-are-an-artist
 title: You are an artist
 wordpress_id: 193

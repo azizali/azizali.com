@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-08 03:44:09+00:00
 layout: post
-link: http://azizali.com/wave-come-often-so-we-should-learn-to-surf/
+link: https://azizali.com/wave-come-often-so-we-should-learn-to-surf/
 slug: wave-come-often-so-we-should-learn-to-surf
 title: Waves come often, so we should learn to surf
 wordpress_id: 165

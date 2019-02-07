@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-02 03:00:36+00:00
 layout: post
-link: http://azizali.com/revealing-secrets/
+link: https://azizali.com/revealing-secrets/
 slug: revealing-secrets
 title: Revealing Secrets
 wordpress_id: 125

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-02 04:35:34+00:00
 layout: post
-link: http://azizali.com/pay-off-the-emotional-debt-today/
+link: https://azizali.com/pay-off-the-emotional-debt-today/
 slug: pay-off-the-emotional-debt-today
 title: Pay off the emotional debt today
 wordpress_id: 307

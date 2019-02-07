@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-12-21 21:57:09+00:00
 layout: post
-link: http://azizali.com/hiring-aha-moment/
+link: https://azizali.com/hiring-aha-moment/
 slug: hiring-aha-moment
 title: Hiring Aha moment
 wordpress_id: 604

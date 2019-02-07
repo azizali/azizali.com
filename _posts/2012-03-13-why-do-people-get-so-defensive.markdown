@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-13 00:40:36+00:00
 layout: post
-link: http://azizali.com/why-do-people-get-so-defensive/
+link: https://azizali.com/why-do-people-get-so-defensive/
 slug: why-do-people-get-so-defensive
 title: Why do people get so defensive
 wordpress_id: 88

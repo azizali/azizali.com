@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-02-26 01:40:32+00:00
 layout: post
-link: http://azizali.com/how-do-gurus-make-money/
+link: https://azizali.com/how-do-gurus-make-money/
 slug: how-do-gurus-make-money
 title: How do Gurus' make money
 wordpress_id: 31

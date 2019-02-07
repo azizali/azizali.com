@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-28 04:24:16+00:00
 layout: post
-link: http://azizali.com/how-do-i-get-more-userscustomers/
+link: https://azizali.com/how-do-i-get-more-userscustomers/
 slug: how-do-i-get-more-userscustomers
 title: How do I get more users/customers
 wordpress_id: 135

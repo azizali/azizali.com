@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-03 03:22:30+00:00
 layout: post
-link: http://azizali.com/compliance-with-the-status-quo/
+link: https://azizali.com/compliance-with-the-status-quo/
 slug: compliance-with-the-status-quo
 title: Compliance with the Status Quo
 wordpress_id: 151

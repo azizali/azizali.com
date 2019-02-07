@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-18 05:33:45+00:00
 layout: post
-link: http://azizali.com/seeing-the-good-in-all-bads/
+link: https://azizali.com/seeing-the-good-in-all-bads/
 slug: seeing-the-good-in-all-bads
 title: Seeing the good in all bads.
 wordpress_id: 502

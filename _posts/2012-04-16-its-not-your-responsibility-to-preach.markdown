@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-16 03:46:11+00:00
 layout: post
-link: http://azizali.com/its-not-your-responsibility-to-preach/
+link: https://azizali.com/its-not-your-responsibility-to-preach/
 slug: its-not-your-responsibility-to-preach
 title: It's not your responsibility to preach
 wordpress_id: 189

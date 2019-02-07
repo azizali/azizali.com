@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-19 04:40:33+00:00
 layout: post
-link: http://azizali.com/diverse-opinion/
+link: https://azizali.com/diverse-opinion/
 slug: diverse-opinion
 title: Diverse Opinion
 wordpress_id: 345

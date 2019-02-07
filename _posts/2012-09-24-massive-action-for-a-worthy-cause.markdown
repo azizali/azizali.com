@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-24 04:44:03+00:00
 layout: post
-link: http://azizali.com/massive-action-for-a-worthy-cause/
+link: https://azizali.com/massive-action-for-a-worthy-cause/
 slug: massive-action-for-a-worthy-cause
 title: Massive action for a worthy cause
 wordpress_id: 552

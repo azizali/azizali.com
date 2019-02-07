@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-14 04:46:14+00:00
 layout: post
-link: http://azizali.com/i-am-obsessed-with-studying-mega-successes/
+link: https://azizali.com/i-am-obsessed-with-studying-mega-successes/
 slug: i-am-obsessed-with-studying-mega-successes
 title: I am obsessed with studying mega successes
 wordpress_id: 91

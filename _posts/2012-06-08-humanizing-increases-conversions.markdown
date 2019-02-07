@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-08 02:18:11+00:00
 layout: post
-link: http://azizali.com/humanizing-increases-conversions/
+link: https://azizali.com/humanizing-increases-conversions/
 slug: humanizing-increases-conversions
 title: Humanizing increases conversions
 wordpress_id: 322

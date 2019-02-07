@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-05 05:25:17+00:00
 layout: post
-link: http://azizali.com/do-not-put-in-the-effort-on-the-wrong-premise/
+link: https://azizali.com/do-not-put-in-the-effort-on-the-wrong-premise/
 slug: do-not-put-in-the-effort-on-the-wrong-premise
 title: Do not put in the effort on the wrong premise
 wordpress_id: 314

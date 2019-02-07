@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-24 04:42:38+00:00
 layout: post
-link: http://azizali.com/prolong-suspension-of-action/
+link: https://azizali.com/prolong-suspension-of-action/
 slug: prolong-suspension-of-action
 title: Prolong Suspension of Action
 wordpress_id: 116

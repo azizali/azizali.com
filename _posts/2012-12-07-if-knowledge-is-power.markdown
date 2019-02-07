@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-12-07 05:51:56+00:00
 layout: post
-link: http://azizali.com/if-knowledge-is-power/
+link: https://azizali.com/if-knowledge-is-power/
 slug: if-knowledge-is-power
 title: If Knowledge is Power
 wordpress_id: 594

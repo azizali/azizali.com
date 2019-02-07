@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-31 04:52:28+00:00
 layout: post
-link: http://azizali.com/take-a-break/
+link: https://azizali.com/take-a-break/
 slug: take-a-break
 title: Take a break
 wordpress_id: 143

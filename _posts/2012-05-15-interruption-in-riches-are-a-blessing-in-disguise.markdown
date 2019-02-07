@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-15 03:04:15+00:00
 layout: post
-link: http://azizali.com/interruption-in-riches-are-a-blessing-in-disguise/
+link: https://azizali.com/interruption-in-riches-are-a-blessing-in-disguise/
 slug: interruption-in-riches-are-a-blessing-in-disguise
 title: Interruption in riches are a blessing in disguise
 wordpress_id: 261

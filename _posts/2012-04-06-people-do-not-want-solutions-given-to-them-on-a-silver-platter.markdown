@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-06 03:59:59+00:00
 layout: post
-link: http://azizali.com/people-do-not-want-solutions-given-to-them-on-a-silver-platter/
+link: https://azizali.com/people-do-not-want-solutions-given-to-them-on-a-silver-platter/
 slug: people-do-not-want-solutions-given-to-them-on-a-silver-platter
 title: People do not want solutions given to them on a silver platter
 wordpress_id: 160

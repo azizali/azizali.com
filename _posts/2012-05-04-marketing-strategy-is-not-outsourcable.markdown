@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-04 03:01:09+00:00
 layout: post
-link: http://azizali.com/marketing-strategy-is-not-outsourcable/
+link: https://azizali.com/marketing-strategy-is-not-outsourcable/
 slug: marketing-strategy-is-not-outsourcable
 title: Marketing & Strategy is not outsourcable
 wordpress_id: 245

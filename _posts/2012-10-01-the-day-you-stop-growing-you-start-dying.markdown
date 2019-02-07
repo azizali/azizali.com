@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-01 04:21:57+00:00
 layout: post
-link: http://azizali.com/the-day-you-stop-growing-you-start-dying/
+link: https://azizali.com/the-day-you-stop-growing-you-start-dying/
 slug: the-day-you-stop-growing-you-start-dying
 title: The day you stop growing, you start dying
 wordpress_id: 561

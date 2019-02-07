@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-08 04:01:10+00:00
 layout: post
-link: http://azizali.com/your-loved-ones-give-you-the-most-pain/
+link: https://azizali.com/your-loved-ones-give-you-the-most-pain/
 slug: your-loved-ones-give-you-the-most-pain
 title: Your loved ones give you the most pain
 wordpress_id: 537

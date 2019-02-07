@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-23 17:58:11+00:00
 layout: post
-link: http://azizali.com/all-success-is-not-equal/
+link: https://azizali.com/all-success-is-not-equal/
 slug: all-success-is-not-equal
 title: All success is not equal
 wordpress_id: 357

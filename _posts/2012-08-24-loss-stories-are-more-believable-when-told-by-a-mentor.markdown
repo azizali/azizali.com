@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-24 04:56:46+00:00
 layout: post
-link: http://azizali.com/loss-stories-are-more-believable-when-told-by-a-mentor/
+link: https://azizali.com/loss-stories-are-more-believable-when-told-by-a-mentor/
 slug: loss-stories-are-more-believable-when-told-by-a-mentor
 title: Loss stories are more believable when told by a mentor
 wordpress_id: 515

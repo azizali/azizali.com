@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-20 04:31:02+00:00
 layout: post
-link: http://azizali.com/fast-track-to-success/
+link: https://azizali.com/fast-track-to-success/
 slug: fast-track-to-success
 title: Fast track to success
 wordpress_id: 273

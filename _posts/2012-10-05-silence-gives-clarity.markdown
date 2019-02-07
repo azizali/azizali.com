@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-05 05:57:09+00:00
 layout: post
-link: http://azizali.com/silence-gives-clarity/
+link: https://azizali.com/silence-gives-clarity/
 slug: silence-gives-clarity
 title: Silence gives clarity
 wordpress_id: 570

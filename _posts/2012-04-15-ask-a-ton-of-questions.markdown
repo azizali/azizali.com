@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-15 03:59:10+00:00
 layout: post
-link: http://azizali.com/ask-a-ton-of-questions/
+link: https://azizali.com/ask-a-ton-of-questions/
 slug: ask-a-ton-of-questions
 title: Ask a ton of questions
 wordpress_id: 186

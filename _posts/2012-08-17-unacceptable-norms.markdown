@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-17 05:43:39+00:00
 layout: post
-link: http://azizali.com/unacceptable-norms/
+link: https://azizali.com/unacceptable-norms/
 slug: unacceptable-norms
 title: Unacceptable norms
 wordpress_id: 499

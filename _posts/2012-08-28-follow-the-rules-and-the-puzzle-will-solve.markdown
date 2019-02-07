@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-28 03:19:52+00:00
 layout: post
-link: http://azizali.com/follow-the-rules-and-the-puzzle-will-solve/
+link: https://azizali.com/follow-the-rules-and-the-puzzle-will-solve/
 slug: follow-the-rules-and-the-puzzle-will-solve
 title: Follow the rules and the puzzle will solve.
 wordpress_id: 524

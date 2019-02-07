@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2013-10-10 17:30:44+00:00
 layout: post
-link: http://azizali.com/unshakable-confidence-is-not-ignorance/
+link: https://azizali.com/unshakable-confidence-is-not-ignorance/
 slug: unshakable-confidence-is-not-ignorance
 title: Unshakable Confidence is not ignorance.
 wordpress_id: 2932

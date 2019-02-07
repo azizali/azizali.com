@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-08 03:36:07+00:00
 layout: post
-link: http://azizali.com/recession-has-taught-companies-a-lesson/
+link: https://azizali.com/recession-has-taught-companies-a-lesson/
 slug: recession-has-taught-companies-a-lesson
 title: Recession has taught companies a lesson
 wordpress_id: 253

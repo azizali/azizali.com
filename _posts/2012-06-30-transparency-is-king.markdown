@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-30 06:56:29+00:00
 layout: post
-link: http://azizali.com/transparency-is-king/
+link: https://azizali.com/transparency-is-king/
 slug: transparency-is-king
 title: Transparency is king
 wordpress_id: 385

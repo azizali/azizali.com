@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-22 06:24:33+00:00
 layout: post
-link: http://azizali.com/readers-are-leaders/
+link: https://azizali.com/readers-are-leaders/
 slug: readers-are-leaders
 title: Readers are leaders
 wordpress_id: 513

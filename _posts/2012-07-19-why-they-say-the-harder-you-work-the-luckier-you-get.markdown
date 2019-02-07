@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-19 03:22:15+00:00
 layout: post
-link: http://azizali.com/why-they-say-the-harder-you-work-the-luckier-you-get/
+link: https://azizali.com/why-they-say-the-harder-you-work-the-luckier-you-get/
 slug: why-they-say-the-harder-you-work-the-luckier-you-get
 title: Why they say "The Harder You Work, The Luckier You Get"
 wordpress_id: 431

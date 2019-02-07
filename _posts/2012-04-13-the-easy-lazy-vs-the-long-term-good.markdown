@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-13 03:43:25+00:00
 layout: post
-link: http://azizali.com/the-easy-lazy-vs-the-long-term-good/
+link: https://azizali.com/the-easy-lazy-vs-the-long-term-good/
 slug: the-easy-lazy-vs-the-long-term-good
 title: The easy lazy vs the long term good
 wordpress_id: 179

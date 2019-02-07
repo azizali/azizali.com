@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-02 03:32:14+00:00
 layout: post
-link: http://azizali.com/actions-vs-words/
+link: https://azizali.com/actions-vs-words/
 slug: actions-vs-words
 title: Actions vs. words
 wordpress_id: 563

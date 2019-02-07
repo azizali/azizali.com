@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-05 03:24:00+00:00
 layout: post
-link: http://azizali.com/its-not-about-the-idea-its-about-the-implementation/
+link: https://azizali.com/its-not-about-the-idea-its-about-the-implementation/
 slug: its-not-about-the-idea-its-about-the-implementation
 title: Its not about the idea, its about the implementation
 wordpress_id: 156

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-03 03:46:43+00:00
 layout: post
-link: http://azizali.com/the-biggest-truth-of-life/
+link: https://azizali.com/the-biggest-truth-of-life/
 slug: the-biggest-truth-of-life
 title: The biggest truth of life
 wordpress_id: 565

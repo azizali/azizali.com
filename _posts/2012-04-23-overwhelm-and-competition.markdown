@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-23 03:15:15+00:00
 layout: post
-link: http://azizali.com/overwhelm-and-competition/
+link: https://azizali.com/overwhelm-and-competition/
 slug: overwhelm-and-competition
 title: Overwhelm and Competition
 wordpress_id: 211

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-07 06:41:21+00:00
 layout: post
-link: http://azizali.com/success-is-a-result-of-deep-thinking-and-foresight/
+link: https://azizali.com/success-is-a-result-of-deep-thinking-and-foresight/
 slug: success-is-a-result-of-deep-thinking-and-foresight
 title: Success is a Result of Deep Thinking and Foresight
 wordpress_id: 576

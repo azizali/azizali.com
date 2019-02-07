@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-12 03:17:23+00:00
 layout: post
-link: http://azizali.com/everything-is-easy-if-its-a-habit/
+link: https://azizali.com/everything-is-easy-if-its-a-habit/
 slug: everything-is-easy-if-its-a-habit
 title: Everything is easy if its a habit
 wordpress_id: 177

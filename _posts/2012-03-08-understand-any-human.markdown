@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-08 04:54:57+00:00
 layout: post
-link: http://azizali.com/understand-any-human/
+link: https://azizali.com/understand-any-human/
 slug: understand-any-human
 title: Understand any Human
 wordpress_id: 70

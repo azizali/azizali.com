@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-18 03:55:39+00:00
 layout: post
-link: http://azizali.com/greatness-is-threatening/
+link: https://azizali.com/greatness-is-threatening/
 slug: greatness-is-threatening
 title: Greatness is threatening
 wordpress_id: 196

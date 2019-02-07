@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-28 04:50:56+00:00
 layout: post
-link: http://azizali.com/what-got-you-here-wont-get-you-there/
+link: https://azizali.com/what-got-you-here-wont-get-you-there/
 slug: what-got-you-here-wont-get-you-there
 title: 'What got you here wont get you there '
 wordpress_id: 298

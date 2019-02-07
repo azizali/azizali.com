@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-02 03:00:03+00:00
 layout: post
-link: http://azizali.com/conflicts-in-a-good-world/
+link: https://azizali.com/conflicts-in-a-good-world/
 slug: conflicts-in-a-good-world
 title: Conflicts in a good world
 wordpress_id: 52

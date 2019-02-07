@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-27 06:14:43+00:00
 layout: post
-link: http://azizali.com/too-many-rules/
+link: https://azizali.com/too-many-rules/
 slug: too-many-rules
 title: Too many rules
 wordpress_id: 376

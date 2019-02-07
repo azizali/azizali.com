@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-22 05:00:00+00:00
 layout: post
-link: http://azizali.com/unfortunately-hype-works/
+link: https://azizali.com/unfortunately-hype-works/
 slug: unfortunately-hype-works
 title: Unfortunately Hype Works
 wordpress_id: 110

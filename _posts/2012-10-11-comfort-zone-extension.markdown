@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-11 03:06:42+00:00
 layout: post
-link: http://azizali.com/comfort-zone-extension/
+link: https://azizali.com/comfort-zone-extension/
 slug: comfort-zone-extension
 title: Comfort Zone Extension
 wordpress_id: 585

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-22 05:08:18+00:00
 layout: post
-link: http://azizali.com/doubt-leads-to-inaction/
+link: https://azizali.com/doubt-leads-to-inaction/
 slug: doubt-leads-to-inaction
 title: Doubt Leads to Inaction
 wordpress_id: 208

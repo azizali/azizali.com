@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-26 04:28:18+00:00
 layout: post
-link: http://azizali.com/what-gets-measured-gets-improved-but/
+link: https://azizali.com/what-gets-measured-gets-improved-but/
 slug: what-gets-measured-gets-improved-but
 title: What gets measured gets improved, but...
 wordpress_id: 454

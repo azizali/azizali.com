@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2010-08-08 20:21:27+00:00
 layout: post
-link: http://azizali.com/influence-anyone-to-do-what-you-want/
+link: https://azizali.com/influence-anyone-to-do-what-you-want/
 slug: influence-anyone-to-do-what-you-want
 title: Influence anyone to do what you want!
 wordpress_id: 620

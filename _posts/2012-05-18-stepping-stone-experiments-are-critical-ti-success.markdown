@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-05-18 21:30:42+00:00
 layout: post
-link: http://azizali.com/stepping-stone-experiments-are-critical-ti-success/
+link: https://azizali.com/stepping-stone-experiments-are-critical-ti-success/
 slug: stepping-stone-experiments-are-critical-ti-success
 title: Stepping stone experiments are critical to success
 wordpress_id: 270

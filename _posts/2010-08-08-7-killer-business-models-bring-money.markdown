@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2010-08-08 20:40:04+00:00
 layout: post
-link: http://azizali.com/7-killer-business-models-bring-money/
+link: https://azizali.com/7-killer-business-models-bring-money/
 slug: 7-killer-business-models-bring-money
 title: 6 Killer Business Models bring Money
 wordpress_id: 619

@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-06-22 17:58:15+00:00
 layout: post
-link: http://azizali.com/you-are-not-a-rockstar-at-everything/
+link: https://azizali.com/you-are-not-a-rockstar-at-everything/
 slug: you-are-not-a-rockstar-at-everything
 title: You are not a rockstar at everything.
 wordpress_id: 359

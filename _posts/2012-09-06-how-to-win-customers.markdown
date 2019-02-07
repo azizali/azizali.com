@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-09-06 03:36:52+00:00
 layout: post
-link: http://azizali.com/how-to-win-customers/
+link: https://azizali.com/how-to-win-customers/
 slug: how-to-win-customers
 title: How to win customers
 wordpress_id: 531

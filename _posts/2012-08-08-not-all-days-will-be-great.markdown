@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-08 04:54:10+00:00
 layout: post
-link: http://azizali.com/not-all-days-will-be-great/
+link: https://azizali.com/not-all-days-will-be-great/
 slug: not-all-days-will-be-great
 title: Not all days will be great
 wordpress_id: 482

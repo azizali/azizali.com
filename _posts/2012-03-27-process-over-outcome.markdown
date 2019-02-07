@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-27 04:01:12+00:00
 layout: post
-link: http://azizali.com/process-over-outcome/
+link: https://azizali.com/process-over-outcome/
 slug: process-over-outcome
 title: Process over Outcome
 wordpress_id: 131

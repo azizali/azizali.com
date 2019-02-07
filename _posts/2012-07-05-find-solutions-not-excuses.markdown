@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-05 05:52:50+00:00
 layout: post
-link: http://azizali.com/find-solutions-not-excuses/
+link: https://azizali.com/find-solutions-not-excuses/
 slug: find-solutions-not-excuses
 title: Find solutions not excuses
 wordpress_id: 395

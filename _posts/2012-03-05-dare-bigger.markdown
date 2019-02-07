@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-03-05 03:45:21+00:00
 layout: post
-link: http://azizali.com/dare-bigger/
+link: https://azizali.com/dare-bigger/
 slug: dare-bigger
 title: Dare Bigger
 wordpress_id: 62

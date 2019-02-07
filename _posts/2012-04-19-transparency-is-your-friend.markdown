@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-04-19 03:37:19+00:00
 layout: post
-link: http://azizali.com/transparency-is-your-friend/
+link: https://azizali.com/transparency-is-your-friend/
 slug: transparency-is-your-friend
 title: Transparency is your friend
 wordpress_id: 198

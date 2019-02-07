@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-08-11 04:38:01+00:00
 layout: post
-link: http://azizali.com/ask-for-apology-and-for-permission-when-poking-a-box/
+link: https://azizali.com/ask-for-apology-and-for-permission-when-poking-a-box/
 slug: ask-for-apology-and-for-permission-when-poking-a-box
 title: Ask for apology, and for permission when poking a box
 wordpress_id: 486

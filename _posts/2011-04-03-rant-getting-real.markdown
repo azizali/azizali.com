@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2011-04-03 03:23:19+00:00
 layout: post
-link: http://azizali.com/rant-getting-real/
+link: https://azizali.com/rant-getting-real/
 slug: rant-getting-real
 title: Rant! Getting Real
 wordpress_id: 383

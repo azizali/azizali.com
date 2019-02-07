@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-07-12 06:15:54+00:00
 layout: post
-link: http://azizali.com/gut-feelings-can-get-muddy-here-is-how-to-clean-it/
+link: https://azizali.com/gut-feelings-can-get-muddy-here-is-how-to-clean-it/
 slug: gut-feelings-can-get-muddy-here-is-how-to-clean-it
 title: Gut feelings can get muddy, here is how to clean it
 wordpress_id: 412

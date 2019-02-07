@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-06 15:07:17+00:00
 layout: post
-link: http://azizali.com/emotional-energy-cost/
+link: https://azizali.com/emotional-energy-cost/
 slug: emotional-energy-cost
 title: Emotional energy cost
 wordpress_id: 574

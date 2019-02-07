@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-10-10 05:24:29+00:00
 layout: post
-link: http://azizali.com/think-it-through/
+link: https://azizali.com/think-it-through/
 slug: think-it-through
 title: Think it through
 wordpress_id: 581

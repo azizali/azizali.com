@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-02-20 02:12:06+00:00
 layout: post
-link: http://azizali.com/hello-world/
+link: https://azizali.com/hello-world/
 slug: hello-world
 title: Hello world! First blog post on AzizAli.com
 wordpress_id: 1

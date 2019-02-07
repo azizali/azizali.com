@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2010-11-06 03:44:19+00:00
 layout: post
-link: http://azizali.com/linkedin-seo/
+link: https://azizali.com/linkedin-seo/
 slug: linkedin-seo
 title: LinkedIn SEO
 wordpress_id: 622

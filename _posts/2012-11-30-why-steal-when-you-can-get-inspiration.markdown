@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-11-30 21:51:56+00:00
 layout: post
-link: http://azizali.com/why-steal-when-you-can-get-inspiration/
+link: https://azizali.com/why-steal-when-you-can-get-inspiration/
 slug: why-steal-when-you-can-get-inspiration
 title: Why Steal, When You Can Get Inspiration
 wordpress_id: 590

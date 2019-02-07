@@ -3,7 +3,7 @@ author: aziz
 comments: true
 date: 2012-12-08 20:01:05+00:00
 layout: post
-link: http://azizali.com/difference-between-skill-and-talent/
+link: https://azizali.com/difference-between-skill-and-talent/
 slug: difference-between-skill-and-talent
 title: Difference between Skill and Talent
 wordpress_id: 598
