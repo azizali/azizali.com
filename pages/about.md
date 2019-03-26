@@ -102,7 +102,7 @@ Here are some of the problems I notice often and I think they are worth solving:
   I believe water should be free, just like air. Okay okay, I get it that there is cost for cleaning and transportation and I am okay that the maintenance cost is bared by everyone using the water. However I dislike the idea of the commercialization of water.
 
 - **Traffic on roads**  
-  My idea of solving this is not via making better infrastructure. I think their is a lot of waste on the road. 90% of people drive a car with the capacity of 5 alone. Thats wasted fuel, energy, space and depreciation of the car.
+  My idea of solving this is not via making better infrastructure. I think there is a lot of waste on the road. 90% of people drive a car with the capacity of 5 alone. Thats wasted fuel, energy, space and depreciation of the car.
 
 - **Recycling**  
   I believe we use plastic accessively. Forget that part, I believe 80% of all the materials which are recyclable are not recycled. We just put it in garbage cans. Also we throw away food which can be otherwise biodegradable.
