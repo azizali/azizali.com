@@ -1,5 +1,5 @@
 ---
-title: What I am doing these days?
+title: What am I doing these days?
 permalink: "/now/"
 layout: page
 ---
