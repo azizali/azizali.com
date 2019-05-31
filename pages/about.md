@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-My parents call me self-assertive, my friends call me outspoken. My super power is the ability to teach and explain things simply, hence I apply my super powers at [iLoveCoding.org](https://ilovecoding.org)
+My parents call me self-assertive, my friends call me outspoken. My superpower is the ability to teach and explain things simply; hence,I apply my superpowers at [iLoveCoding.org](https://ilovecoding.org)
 
 ## What drives me?
 ---
@@ -105,7 +105,7 @@ Here are some of the problems I notice often and I think they are worth solving:
   My idea of solving this is not via making better infrastructure. I think there is a lot of waste on the road. 90% of people drive a car with the capacity of 5 alone. Thats wasted fuel, energy, space and depreciation of the car.
 
 - **Recycling**  
-  I believe we use plastic accessively. Forget that part, I believe 80% of all the materials which are recyclable are not recycled. We just put it in garbage cans. Also we throw away food which can be otherwise biodegradable.
+  I believe we use plastic excessively. Forget that part, I believe 80% of all the materials which are recyclable are not recycled. We just put it in garbage cans. Also, we throw away food which can be otherwise biodegradable.
 
 *I understand that there are bigger issues in our world than the above. These are some that come to my attention often and hence wanted to list*
   
