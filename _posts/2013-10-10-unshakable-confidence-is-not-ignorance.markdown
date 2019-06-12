@@ -10,13 +10,13 @@ link: https://azizali.com/unshakable-confidence-is-not-ignorance/
 wordpress_id: 2932
 ---
 
-The person who is most certain will always be able influence the other.
+The person who is most certain will always be able to influence the other.
 
 If you see any person who look up to, a politician, teacher, preacher, or any other person in a leadership position. The one you follow is the one you trust to be the most certain in his/her message.
 
 This unshakable certainty is a prerequisite for all great leaders in history.
 
-Mohammad PBUH, Jesus Crist PBUH, Moses PBUH, Imran Khan, Nelson Mandela; they all had confidence in what they were preaching was so true, that they were ready to put their life on the line for it. For them there was no bigger truth than they truth for which they stood for.
+Mohammad (PBUH), Jesus Crist (PBUH), Moses (PBUH), Imran Khan, Nelson Mandela; they all had confidence in what they were preaching was so true, that they were ready to put their life on the line for it. For them, there was no bigger truth than the truth for which they stood for.
 
 They had a strong enough reason to believe in what they believed that they could say and act in a way that would have been seen as ignorance by a few at that age. But with that persistence they achieved their success, such that we love and admire them to this day.
 
@@ -27,7 +27,7 @@ Whether it be a business idea, a social, or political change, an educational ref
 
 
 	
-  1. Do you believe is something strongly enough?
+  1. Do you believe in something strongly enough?
 
 	
   2. and do you have a strong enough reason as to why you want it?
