@@ -6,7 +6,7 @@
   "author": "Aziz Ali <aziz@ilovecoding.org>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "4.0.0"
+    "bootstrap": "4.3.1"
   },
   "scripts": {
     "start": "bundle exec jekyll serve --incremental",
